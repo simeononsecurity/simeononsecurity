@@ -11,7 +11,7 @@ Simeon is a Systems Administrator by day and Cyber Security and Privacy Enthusia
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/simeononsecurity">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&theme=light&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=ffffff&bg_color=000000"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&theme=light&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=ffffff&bg_color=ffffff"/>
 </a>
 <a href="https://github.com/simeononsecurity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=W10-Optimize-and-Harden&theme=light" />
