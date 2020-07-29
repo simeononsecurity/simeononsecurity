@@ -10,11 +10,11 @@ Simeon is a Systems Administrator by day and Cyber Security and Privacy Enthusia
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://simeononsecurity.ch">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=daf7dc&bg_color=000000"/>
 </a>
 <a href="https://github.com/simeononsecurity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=W10-Optimize-and-Harden&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=W10-Optimize-and-Harden&theme=light" />
 </a>
 <a href="https://github.com/simeononsecurity">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=Apache-Web-Server-Hardening&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=Apache-Web-Server-Hardening&theme=light" />
 </a>
