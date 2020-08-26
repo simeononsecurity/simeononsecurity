@@ -15,6 +15,6 @@ Simeon is a Systems Administrator by day and Cyber Security and Privacy Enthusia
 <a href="https://github.com/simeononsecurity/W10-Optimize-and-Harden">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=W10-Optimize-and-Harden&theme=light" />
 </a>
-<a href="https://github.com/simeononsecurity/Apache-Web-Server-Hardeningy">
+<a href="https://github.com/simeononsecurity/Apache-Web-Server-Hardening">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=Apache-Web-Server-Hardening&theme=light" />
 </a>
