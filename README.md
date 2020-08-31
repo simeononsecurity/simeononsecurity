@@ -1,9 +1,3 @@
-
-
-### Badges and Banners:
-<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&theme=light&hide_langs_below=1" /></a>
-<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&theme=light&show_icons=true&title_color=3399ff&icon_color=000000&text_color=000000&bg_color=ffffff"/></a>
-
 ### Contact Details:
 
 SimeonOnSecurity does not have publicly available contact details at this time.
@@ -17,7 +11,6 @@ You may follow our [Blog](https://simeononsecurity.ch/), our [RSS feed](https://
 ### Languages and Tools:
 
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
