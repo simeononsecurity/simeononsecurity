@@ -1,12 +1,12 @@
 
 
-### Contact Details
+### Contact Details:
 
 SimeonOnSecurity does not have publicly available contact details at this time.
 
 You may follow our [Blog](https://simeononsecurity.ch/), our [RSS feed](https://simeononsecurity.com/index.xml), or our [GitHub](https://github.com/simeononsecurity).
 
-### SimeonOnSecurity.ch Status
+### SimeonOnSecurity.ch Status"
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/190394fe-722e-4aa2-bc39-ff81985b2960/deploy-status)](https://app.netlify.com/sites/simeononsecurity/deploys) ![Hugo Build](https://github.com/simeononsecurity/simeononsecurityweb/workflows/hugo/badge.svg) ![Greetings](https://github.com/simeononsecurity/simeononsecurityweb/workflows/Greetings/badge.svg) ![Mark stale issues and pull requests](https://github.com/simeononsecurity/simeononsecurityweb/workflows/Mark%20stale%20issues%20and%20pull%20requests/badge.svg)
 
