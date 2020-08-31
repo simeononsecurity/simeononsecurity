@@ -1,5 +1,9 @@
 
 
+### Badges and Banners:
+<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&theme=light&hide_langs_below=1" /></a>
+<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&theme=light&show_icons=true&title_color=3399ff&icon_color=000000&text_color=000000&bg_color=ffffff"/></a>
+
 ### Contact Details:
 
 SimeonOnSecurity does not have publicly available contact details at this time.
@@ -32,8 +36,4 @@ You may follow our [Blog](https://simeononsecurity.ch/), our [RSS feed](https://
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
 
-### Badges and Banners:
-<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&theme=light&hide_langs_below=1" /></a>
-<a href="https://github.com/simeononsecurity"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&&theme=light&show_icons=true&title_color=3399ff&icon_color=000000&text_color=000000&bg_color=ffffff"/></a>
-<a href="https://github.com/simeononsecurity/W10-Optimize-and-Harden"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=W10-Optimize-and-Harden&theme=light" /></a>
-<a href="https://github.com/simeononsecurity/Apache-Web-Server-Hardening"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simeononsecurity&repo=Apache-Web-Server-Hardening&theme=light" /></a>
+
