@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /> </p>
 
-- 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
+- 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/W10-Optimize-and-Harden)
 
 - 🌱 I’m currently learning **Ansible, Docker, and Kubernetes**
 
