@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [.NET-STIG-Script](https://github.com/simeononsecurity/.NET-STIG-Script)
 
-- 📝 I regulary write articles on [https://simeononsecurity.ch](https://simeononsecurity.ch)
+- 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch)
 
 - 💬 Ask me about **Powershell, STIGS, and Compliance**
 
