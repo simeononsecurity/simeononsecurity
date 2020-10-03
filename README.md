@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">A passionate security and automation enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /><script src="https://tryhackme.com/badge/184431"></script> <script src="https://www.hackthebox.eu/badge/415720"></script></p>
 
 - 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/W10-Optimize-and-Harden)
 
