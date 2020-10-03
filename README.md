@@ -2,7 +2,7 @@
 <h3 align="center">A passionate security and automation enthusiast.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
-<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/simeononsecurity.png" alt="TryHackMe"><p align="center"><img src="http://www.hackthebox.eu/badge/image/415720" alt="Hack The Box"></p>
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/simeononsecurity.png" alt="TryHackMe"><img src="http://www.hackthebox.eu/badge/image/415720" alt="Hack The Box"></p>
 
 - 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/W10-Optimize-and-Harden)
 
