@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/W10-Optimize-and-Harden)
 
-- 🌱 I’m currently learning **Ansible, Docker, and Kubernetes**
+- 🌱 I’m currently learning **Ansible, Docker, Kubernetes. Python, and Reverse Engineering**
 
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
