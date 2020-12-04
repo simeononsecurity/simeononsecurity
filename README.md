@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
 
-- 🔭 I’m currently working on [W10-Optimize-and-Harden](https://github.com/simeononsecurity/W10-Optimize-and-Harden)
+- 🔭 I’m currently working on [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 
 - 🌱 I’m currently learning **Ansible, Docker, Kubernetes. Python, and Reverse Engineering**
 
