@@ -2,6 +2,7 @@
 <h3 align="center">A passionate security and automation enthusiast.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simeononsecurity" alt="simeononsecurity" /></a> </p>
 
 - 🔭 I’m currently working on [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 
