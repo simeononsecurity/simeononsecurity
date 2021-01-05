@@ -20,7 +20,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&layout=compact" alt="simeononsecurity" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&show_icons=true" alt="simeononsecurity" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeononsecurity&" alt="simeononsecurity" /></p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simeononsecurity" alt="simeononsecurity" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&show_icons=true" alt="simeononsecurity" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeononsecurity&" alt="simeononsecurity" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=simeononsecurity" alt="simeononsecurity" /></a> 
 </p>
