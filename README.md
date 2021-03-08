@@ -25,6 +25,6 @@
 <p alight="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simeononsecurity&" alt="simeononsecurity" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=simeononsecurity&show_icons=true" alt="simeononsecurity" />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" height="85" src="https://github-profile-trophy.vercel.app/?username=simeononsecurity" alt="simeononsecurity" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" height="100" src="https://github-profile-trophy.vercel.app/?username=simeononsecurity" alt="simeononsecurity" /></a> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&layout=compact" alt="simeononsecurity" />
 </p>
