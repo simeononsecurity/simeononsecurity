@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">A passionate security and automation enthusiast.</h3>
+<h3 align="center">A Cyber Security Professional and Automation Enthusiast.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
 
