@@ -17,7 +17,6 @@
 - 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch)
 
 - 💬 Ask me about **PowerShell, STIGs, SRGs and Compliance**
-
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
