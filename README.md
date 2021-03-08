@@ -3,6 +3,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
 
+<img width="50%" align="right" alt="Github Image" src="https://avatars.githubusercontent.com/u/4913771?s=460&u=e840e2e69764ea2e119649e87dc3111094f4ceb3&v=4" />
+
 - 🔭 I’m currently working on [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 
 - 🌱 I’m currently learning **Ansible, Docker, Kubernetes, Python, and Reverse Engineering**
