@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
-- 🤝 I’m looking for help with [.NET-STIG-Script](https://github.com/simeononsecurity/.NET-STIG-Script)
+- 🤝 I’m looking for help with **IIS and SQL STIG Automation**
 
 - 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch)
 
