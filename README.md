@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 
-- 🌱 I’m currently learning **Ansible, Docker, Kubernetes, Python, and Reverse Engineering**
+- 🌱 I’m currently learning **Ansible, Docker, Kubernetes, Python, C# and Reverse Engineering**
  
 - 🌱 I’m currently reverse engineering and discovering security flaws on **LoraWAN, Helium, and IoT Networks**
 
