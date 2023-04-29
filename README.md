@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Ansible, Docker, Kubernetes, Python, C# and Reverse Engineering**
  
-- 🌱 I’m currently reverse engineering and discovering security flaws on **LoraWAN, Helium, and IoT Networks**
+- 🌱 I’m currently developing **learning tools and gpt accelorated bots**
 
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
