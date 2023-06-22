@@ -6,12 +6,10 @@
   
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
+- 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
 
-- 🌱 I’m currently learning **Ansible, Docker, Kubernetes, Python, C# and Reverse Engineering**
+- 🌱 I’m currently learning **SEO, Keyword Analysis, and Networking**
  
-- 🌱 I’m currently developing **Learning Tools and GPT Accelerated Bots**
-
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
 - 🤝 I’m looking for help with **IIS, SQL, and VMWare STIG Automation**
