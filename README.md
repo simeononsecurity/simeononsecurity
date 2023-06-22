@@ -16,9 +16,11 @@
 
 - 🤝 I’m looking for help with **IIS, SQL, and VMWare STIG Automation**
 
-- 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch)
+- 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch) and [cybersentinels.org](https://cybersentinels.org/)
 
 - 💬 Ask me about **PowerShell, STIGs, SRGs and Compliance**
+
+- 💬 Collaborate with me and other Cyber Security and IT Professionals on the [Cyber Sentinels Discord](https://discord.io/cybersentinels)
 </div>
 <!--
 <h3 align="left">Languages and Tools:</h3>
