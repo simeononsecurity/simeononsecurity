@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
 
 <div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></p>
+<p align="center"><a href="https://simeononsecurity.ch"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></a></p>
   
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
