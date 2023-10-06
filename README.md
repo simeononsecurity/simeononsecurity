@@ -24,14 +24,6 @@
     <img src="https://img.shields.io/discord/762530227511099432?label=SoS%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <br>
-
-  <!-- GitHub Profile Views -->
-  <div align="center">
-    <a href="https://simeononsecurity.ch">
-      <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
-    </a>
-  </div>
-  <br>
   
   <div>
     <!-- Website -->
@@ -44,6 +36,14 @@
     </a>
     <br>
   </div>
+
+  <!-- GitHub Profile Views -->
+  <div align="center">
+    <a href="https://simeononsecurity.ch">
+      <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
+    </a>
+  </div>
+  <br>
 </div>
 
 <div>  
