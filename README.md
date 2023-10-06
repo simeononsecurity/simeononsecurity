@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
+<div id="badges" align="center">
+[![RSS feed](https://img.shields.io/badge/RSS%20feed-Subscribe-orange)](/index.xml)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue)](https://github.com/simeononsecurity)
+[![Twitter](https://img.shields.io/twitter/follow/SimeonSecurity?style=social)](https://twitter.com/SimeonSecurity)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue)](https://infosec.exchange/@simeononsecurity)
+[![Reddit](https://img.shields.io/reddit/user-karma/simeonsecurity?style=social)](https://www.reddit.com/user/simeonsecurity)
+[![Medium](https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black)](https://medium.com/@simeononsecurity)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-<COLOR>?logo=substack&logoColor=white)](https://substack.com/@simeononsecurity)
+[![Discord](https://img.shields.io/discord/868241183755993374?label=Discord&logo=discord&logoColor=white)](https://discord.gg/FGQmksA4MA)
+</div>
 
 <div>
 <p align="center"><a href="https://simeononsecurity.ch"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></a></p>
