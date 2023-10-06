@@ -23,4 +23,7 @@ jobs:
           file: 'README.md'
           
       - if: ${{ steps.update-readme.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+      - name: Commit changes
+        uses: mikeal/publish-to-github-action@v1
+        with:
+          github_token: ${{ secrets.ghtoken }}
