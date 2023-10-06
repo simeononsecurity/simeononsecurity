@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
 <div id="badges" align="center">
-  <a href="https://simeononsecurity.ch">
-    <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
-  </a>
+  <!-- Like Buttons -->
   <a href="https://twitter.com/SimeonSecurity">
     <img src="https://img.shields.io/twitter/follow/SimeonSecurity?style=social" alt="Twitter">
   </a>
@@ -13,22 +11,35 @@
   <a href="https://infosec.exchange/@simeononsecurity">
     <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
   </a>
-  <a href="https://simeononsecurity.ch/index.xml">
-    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
-  </a>
   <a href="https://medium.com/@simeononsecurity">
     <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
+  <br>
+
+  <!-- Website -->
+  <a href="https://simeononsecurity.ch">
+    <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
+  </a>
+  <!-- RSS Feed -->
+  <a href="https://simeononsecurity.ch/index.xml">
+    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
+  </a>
+  <br>
+
+  <!-- Discord -->
   <a href="https://discord.io/cybersentinels">
     <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://discord.gg/dwurqrfsAZ">
     <img src="https://img.shields.io/discord/762530227511099432?label=SoS%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <br>
+
+  <!-- GitHub Profile Views -->
   <div align="center">
-  <a href="https://simeononsecurity.ch">
-    <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
-  </a>
+    <a href="https://simeononsecurity.ch">
+      <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
+    </a>
   </div>
 </div>
 
