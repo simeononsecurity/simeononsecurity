@@ -23,6 +23,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Nov 26 - [Boost PowerShell Performance: Harness Ngen for Effortless Speed](https://simeononsecurity.ch/guides/boost-powershell-performance-with-ngen/)
+- Nov 25 - [Virtualization Showdown: VMware ESXi, Citrix XenServer, Hyper-V, Proxmox VE, XCP-NG](https://simeononsecurity.ch/articles/vmware-esxi-citrix-xenserver-hyper-v-comparison/)
+- Nov 24 - [Windows Registry vs. Linux Config Files: Cybersecurity Showdown](https://simeononsecurity.ch/articles/windows-registry-vs-linux-config-files-cybersecurity-comparison/)
+- Nov 23 - [Securing Windows and Linux: PowerShell vs. Python - Cybersecurity Comparison](https://simeononsecurity.ch/articles/powershell-vs-python-cybersecurity-comparison/)
+- Nov 22 - [Cybersecurity Showdown: Windows Task Scheduler vs Linux Cron Jobs](https://simeononsecurity.ch/articles/windows-task-scheduler-vs-linux-cron-jobs-cybersecurity-hardening/)
 <!-- feed end -->
 
 <!--
