@@ -31,6 +31,19 @@
       <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
     </a>
   </div>
+  <br>
+  
+  <div>
+    <!-- Website -->
+    <a href="https://simeononsecurity.ch">
+      <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
+    </a>
+    <!-- RSS Feed -->
+    <a href="https://simeononsecurity.ch/index.xml">
+      <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
+    </a>
+    <br>
+  </div>
 </div>
 
 <div>  
@@ -52,17 +65,6 @@
 </div>
 
 ### Latest Posts
-<div>
-  <!-- Website -->
-  <a href="https://simeononsecurity.ch">
-    <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
-  </a>
-  <!-- RSS Feed -->
-  <a href="https://simeononsecurity.ch/index.xml">
-    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
-  </a>
-  <br>
-</div>
 <!-- feed start -->
 - Nov 26 - [Boost PowerShell Performance: Harness Ngen for Effortless Speed](https://simeononsecurity.ch/guides/boost-powershell-performance-with-ngen/)
 - Nov 25 - [Virtualization Showdown: VMware ESXi, Citrix XenServer, Hyper-V, Proxmox VE, XCP-NG](https://simeononsecurity.ch/articles/vmware-esxi-citrix-xenserver-hyper-v-comparison/)
