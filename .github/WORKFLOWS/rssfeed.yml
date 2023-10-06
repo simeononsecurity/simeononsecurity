@@ -1,9 +1,6 @@
 name: Update README from RSS feed
 
 on:
-  push:
-    branches:
-      - master  # Replace with the name of your main branch
   schedule:
     - cron: '0 0 * * *'  # Schedule to run daily at midnight
 
