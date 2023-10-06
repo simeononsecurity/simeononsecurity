@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
 <div id="badges" align="center">
-  <a href="https://simeononsecurity.ch/index.xml">
-    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
-  </a>
-  <a href="https://github.com/simeononsecurity">
-    <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue" alt="GitHub">
+  <a href="https://simeononsecurity.ch">
+    <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
   </a>
   <a href="https://twitter.com/SimeonSecurity">
     <img src="https://img.shields.io/twitter/follow/SimeonSecurity?style=social" alt="Twitter">
   </a>
+  <a href="https://github.com/simeononsecurity">
+    <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue" alt="GitHub">
+  </a>
   <a href="https://infosec.exchange/@simeononsecurity">
     <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
+  </a>
+  <a href="https://simeononsecurity.ch/index.xml">
+    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
   </a>
   <a href="https://medium.com/@simeononsecurity">
     <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
-  <a href="https://substack.com/@simeononsecurity">
-    <img src="https://img.shields.io/badge/Substack-Subscribe-<COLOR>?logo=substack&logoColor=white" alt="Substack">
-  </a>
   <a href="https://discord.io/cybersentinels">
     <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://discord.gg/dwurqrfsAZ">
+    <img src="https://img.shields.io/discord/762530227511099432?label=SoS%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <div align="center">
   <a href="https://simeononsecurity.ch">
