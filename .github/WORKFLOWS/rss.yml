@@ -1,22 +1,16 @@
-name: Update README from RSS feed
-
 on:
   schedule:
-    - cron: '0 0 * * *'  # Schedule to run daily at midnight
+    - cron: '0 */6 * * *'
 
 jobs:
-  update-readme:
+  readme:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Update README from RSS feed
-      uses: sarisia/actions-readme-feed@v1.9.0    
-      with:
-        url: 'https://simeononsecurity.ch/index.xml'
-        file: 'README.md'
-
-
-
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://simeononsecurity.ch/index.xml'
+          file: 'README.md'
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
