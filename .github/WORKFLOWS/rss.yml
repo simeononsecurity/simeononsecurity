@@ -1,7 +1,9 @@
+name: RSS Feed
 on:
   schedule:
     - cron: '0 0 * * *'
   push:
+    branches: master
   
 jobs:
   readme:
