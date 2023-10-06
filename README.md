@@ -1,14 +1,30 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
 <div id="badges" align="center">
-[![RSS feed](https://img.shields.io/badge/RSS%20feed-Subscribe-orange)](/index.xml)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue)](https://github.com/simeononsecurity)
-[![Twitter](https://img.shields.io/twitter/follow/SimeonSecurity?style=social)](https://twitter.com/SimeonSecurity)
-[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue)](https://infosec.exchange/@simeononsecurity)
-[![Reddit](https://img.shields.io/reddit/user-karma/simeonsecurity?style=social)](https://www.reddit.com/user/simeonsecurity)
-[![Medium](https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black)](https://medium.com/@simeononsecurity)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-<COLOR>?logo=substack&logoColor=white)](https://substack.com/@simeononsecurity)
-[![Discord](https://img.shields.io/discord/868241183755993374?label=Discord&logo=discord&logoColor=white)](https://discord.gg/FGQmksA4MA)
+  <a href="https://simeononsecurity.ch/index.xml">
+    <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
+  </a>
+  <a href="https://github.com/simeononsecurity">
+    <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/SimeonSecurity">
+    <img src="https://img.shields.io/twitter/follow/SimeonSecurity?style=social" alt="Twitter">
+  </a>
+  <a href="https://infosec.exchange/@simeononsecurity">
+    <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
+  </a>
+  <a href="https://www.reddit.com/user/simeonsecurity">
+    <img src="https://img.shields.io/reddit/user-karma/simeonsecurity?style=social" alt="Reddit">
+  </a>
+  <a href="https://medium.com/@simeononsecurity">
+    <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
+  </a>
+  <a href="https://substack.com/@simeononsecurity">
+    <img src="https://img.shields.io/badge/Substack-Subscribe-<COLOR>?logo=substack&logoColor=white" alt="Substack">
+  </a>
+  <a href="https://discord.gg/FGQmksA4MA">
+    <img src="https://img.shields.io/discord/868241183755993374?label=Discord&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 <div>
