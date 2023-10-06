@@ -3,6 +3,8 @@ name: Daily README Update
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    - branches: [master]
 
 jobs:
   update-readme:
@@ -18,9 +20,3 @@ jobs:
         with:
           url: 'https://simeononsecurity.ch/index.xml'
           file: 'README.md'
-          
-      - if: ${{ steps.update-readme.outputs.changed == true }}
-      - name: Commit changes
-        uses: mikeal/publish-to-github-action@v1
-        with:
-          github_token: ${{ secrets.ghtoken }}
