@@ -13,23 +13,23 @@
   <a href="https://infosec.exchange/@simeononsecurity">
     <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
   </a>
-  <a href="https://www.reddit.com/user/simeonsecurity">
-    <img src="https://img.shields.io/reddit/user-karma/simeonsecurity?style=social" alt="Reddit">
-  </a>
   <a href="https://medium.com/@simeononsecurity">
     <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
   <a href="https://substack.com/@simeononsecurity">
     <img src="https://img.shields.io/badge/Substack-Subscribe-<COLOR>?logo=substack&logoColor=white" alt="Substack">
   </a>
-  <a href="https://discord.gg/FGQmksA4MA">
-    <img src="https://img.shields.io/discord/868241183755993374?label=Discord&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://discord.io/cybersentinels">
+    <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <div align="center">
+  <a href="https://simeononsecurity.ch">
+    <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
+  </a>
+  </div>
 </div>
 
-<div>
-<p align="center"><a href="https://simeononsecurity.ch"><img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity" /></a></p>
-  
+<div>  
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
