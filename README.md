@@ -16,19 +16,19 @@
   </a>
     <a href="https://simeononsecurity.hashnode.dev" target="_blank">
       <img
-        src="https://img.shields.io/badge/Website-Visit-<COLOR>&logoColor=white&color=black"
+        src="https://img.shields.io/badge/Hashnode-Blog-<COLOR>&logoColor=white&color=black"
         alt="Hashnode Blog"
       />
     </a>
     <a href="https://dev.to/simeononsecurity" target="_blank">
       <img
-        src="https://img.shields.io/badge/Website-Visit-<COLOR>&logoColor=white&color=black"
+        src="https://img.shields.io/badge/Dev.to-Profile-<COLOR>logoColor=white&color=black"
         alt="DEV.to Profile"
       />
     </a>
     <a href="https://hackaday.io/SimeonOnSecurity" target="_blank">
       <img
-        src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=blue"
+        src="https://img.shields.io/badge/HackADay-Profile-<COLOR>?color=blue"
         alt="Hackaday.io Profile"
       />
     </a>
