@@ -69,11 +69,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 06 - [Effortless Docker Image Optimization: 8 Proven Tips for Efficiency](https://simeononsecurity.ch/guides/docker-image-optimization-tips/)
 - Dec 05 - [Budget DIY GPS/GNSS Base Station / Receiver Setup with ESP32 and UM980](https://simeononsecurity.ch/guides/budget-diy-gps-gnss-base-station-setup-esp32-um980/)
 - Dec 04 - [Mastering Google Dorks: Unleash Effortless OSINT and Hacking Power](https://simeononsecurity.ch/articles/mastering-google-dorks-osint-hacking-power/)
 - Dec 03 - [Mastering Google Dorks: Unleash Effortless Search Power](https://simeononsecurity.ch/articles/mastering-google-dorks-enhanced-search-techniques/)
 - Dec 02 - [Effortless Custom Ethernet Cable Creation Guide | DIY Network Solutions](https://simeononsecurity.ch/guides/how-to-create-custom-ethernet-cables-guide/)
-- Dec 01 - [Demystifying Cybersecurity Jargon: Your Guide to Digital Defense](https://simeononsecurity.ch/articles/demystifying-cybersecurity-jargon-guide/)
 <!-- feed end -->
 
 <!--
