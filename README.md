@@ -16,13 +16,13 @@
   </a>
     <a href="https://simeononsecurity.hashnode.dev" target="_blank">
       <img
-        src="https://img.shields.io/badge/Hashnode-Visit-<COLOR>?color=success"
+        src="https://img.shields.io/badge/Hashnode-Visit-<COLOR>&logoColor=white&color=black"
         alt="Hashnode Blog"
       />
     </a>
     <a href="https://dev.to/simeononsecurity" target="_blank">
       <img
-        src="https://img.shields.io/badge/DEV.to-Visit-<COLOR>?color=black"
+        src="https://img.shields.io/badge/DEV.to-Visit-<COLOR>&logoColor=white&color=black"
         alt="DEV.to Profile"
       />
     </a>
