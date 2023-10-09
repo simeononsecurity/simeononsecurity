@@ -34,7 +34,7 @@
     <a href="https://simeononsecurity.ch/index.xml">
       <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
     </a>
-    <a href="https://github.com/sponsors/YourGitHubUsername" target="_blank">
+    <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
       <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor&style=social" alt="GitHub Sponsors">
     </a>
     <br>
