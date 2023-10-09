@@ -14,6 +14,24 @@
   <a href="https://medium.com/@simeononsecurity">
     <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
+    <a href="https://simeononsecurity.hashnode.dev" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Hashnode-Visit-<COLOR>?color=success"
+        alt="Hashnode Blog"
+      />
+    </a>
+    <a href="https://dev.to/simeononsecurity" target="_blank">
+      <img
+        src="https://img.shields.io/badge/DEV.to-Visit-<COLOR>?color=black"
+        alt="DEV.to Profile"
+      />
+    </a>
+    <a href="https://hackaday.io/SimeonOnSecurity" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Hackaday.io-Visit-<COLOR>?color=blue"
+        alt="Hackaday.io Profile"
+      />
+    </a>
   <br>
 
   <!-- Discord -->
