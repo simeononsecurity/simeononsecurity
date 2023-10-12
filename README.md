@@ -69,11 +69,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 08 - [Comparing Azure DevOps, GitHub, GitLab, and BitBucket: Finding the Best Code Repositories](https://simeononsecurity.ch/articles/best-code-repositories-comparison/)
+- Dec 07 - [Cybersecurity in Space: Protecting GPS Signals](https://simeononsecurity.ch/articles/cybersecurity-in-space-protecting-gps-signals/)
 - Dec 06 - [Effortless Docker Image Optimization: 8 Proven Tips for Efficiency](https://simeononsecurity.ch/guides/docker-image-optimization-tips/)
 - Dec 05 - [Budget DIY GPS/GNSS Base Station / Receiver Setup with ESP32 and UM980](https://simeononsecurity.ch/guides/budget-diy-gps-gnss-base-station-setup-esp32-um980/)
 - Dec 04 - [Mastering Google Dorks: Unleash Effortless OSINT and Hacking Power](https://simeononsecurity.ch/articles/mastering-google-dorks-osint-hacking-power/)
-- Dec 03 - [Mastering Google Dorks: Unleash Effortless Search Power](https://simeononsecurity.ch/articles/mastering-google-dorks-enhanced-search-techniques/)
-- Dec 02 - [Effortless Custom Ethernet Cable Creation Guide | DIY Network Solutions](https://simeononsecurity.ch/guides/how-to-create-custom-ethernet-cables-guide/)
 <!-- feed end -->
 
 <!--
