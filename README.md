@@ -81,170 +81,58 @@
 
 ### Contribution Highlights 
 <div id="contributions" align="left">
-  <ul>
-    <li>
-      <!-- GitHub Forks -->
-      <ul>
-        <li>
-          Over 1k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a>
-          <ul>
-            <li>
-              <a href="https://github.com/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/github/stars/simeononsecurity" alt="GitHub Stars">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- Docker Hub -->
-      <ul>
-        <li>
-          Dozens of containers maintained on <a href="https://hub.docker.com/u/simeononsecurity" rel="me">Docker Hub</a>
-          <ul>
-            <li>
-              <a href="https://hub.docker.com/u/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/badge/Docker-Containers-brightgreen" alt="Docker Hub containers">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- Firefox Add-ons -->
-      <ul>
-        <li>
-          Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a>
-          <ul>
-            <li>
-              <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">
-                <img src="https://img.shields.io/badge/FireFox-Extensions-brightgreen" alt="Firefox add-ons">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- NPM Packages -->
-      <ul>
-        <li>
-          Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a>
-          <ul>
-            <li>
-              <a href="https://www.npmjs.com/~simeononsecurity" rel="me">
-                <img src="https://img.shields.io/badge/NPM-Packages-brightgreen" alt="NPM packages">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- Python Packages -->
-      <ul>
-        <li>
-          Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a>
-          <ul>
-            <li>
-              <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">
-                <img src="https://img.shields.io/badge/PyPI-Packages-brightgreen" alt="Python packages">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- Ansible Galaxy Collections -->
-      <ul>
-        <li>
-          Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible
-            Galaxy</a>
-          <ul>
-            <li>
-              <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-brightgreen"
-                  alt="Ansible Galaxy collections">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- PowerShell Gallery Profile -->
-      <ul>
-        <li>
-          PowerShell Modules on <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">PowerShell Gallery</a>
-          <ul>
-            <li>
-              <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">
-                <img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-brightgreen"
-                  alt="PowerShell Gallery profile">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- Chocolatey Community Profile -->
-      <ul>
-        <li>
-          Packages published on <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">Chocolatey</a>
-          <ul>
-            <li>
-              <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-brightgreen" alt="Chocolatey Community profile">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <!-- GitHub Stars for Discord Bots -->
-      <ul>
-        <li>
-          4 Discord Bots Created
-          <ul>
-            <li>
-              <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me">
-                <img
-                  src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github"
-                  alt="GitHub stars">
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me">
-                <img
-                  src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github"
-                  alt="GitHub stars">
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me">
-                <img
-                  src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github"
-                  alt="GitHub stars">
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me">
-                <img
-                  src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github"
-                  alt="GitHub stars">
-              </a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
+  <table>
+    <tr>
+      <td>Over 1k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a></td>
+      <td><a href="https://github.com/simeononsecurity" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity" alt="GitHub Stars"></a></td>
+    </tr>
+    <tr>
+      <td>Dozens of containers maintained on <a href="https://hub.docker.com/u/simeononsecurity" rel="me">Docker Hub</a></td>
+      <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-brightgreen" alt="Docker Hub containers"></a></td>
+    </tr>
+    <tr>
+      <td>Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
+      <td><a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-brightgreen" alt="Firefox add-ons"></a></td>
+    </tr>
+    <tr>
+      <td>Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a></td>
+      <td><a href="https://www.npmjs.com/~simeononsecurity" rel="me"><img src="https://img.shields.io/badge/NPM-Packages-brightgreen" alt="NPM packages"></a></td>
+    </tr>
+    <tr>
+      <td>Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a></td>
+      <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-brightgreen" alt="Python packages"></a></td>
+    </tr>
+    <tr>
+      <td>Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a></td>
+      <td><a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-brightgreen" alt="Ansible Galaxy collections"></a></td>
+    </tr>
+    <tr>
+      <td>PowerShell Modules on <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">PowerShell Gallery</a></td>
+      <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-brightgreen" alt="PowerShell Gallery profile"></a></td>
+    </tr>
+    <tr>
+      <td>Packages published on <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">Chocolatey</a></td>
+      <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-brightgreen" alt="Chocolatey Community profile"></a></td>
+    </tr>
+    <tr>
+      <td>4 Discord Bots Created</td>
+      <td><a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars"></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
+    </tr>
+  </table>
 </div>
+
 
 
 <!--
