@@ -114,15 +114,26 @@
   </li>
   <li>
     <!-- GitHub Stars for Discord Bots -->
-    <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me">
-      <img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?style=social" alt="GitHub stars">
-    </a>
-    <a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me">
-      <img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?style=social" alt="GitHub stars">
-    </a>
-    <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me">
-      <img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?style=social" alt="GitHub stars">
-    </a>
+  <ul>
+    <!-- GitHub Stars for Discord Bots -->
+    <li>
+      <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me">
+        <img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars">
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me">
+        <img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars">
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me">
+        <img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars">
+      </a>
+    </li>
+    3 Discord Bots Created
+  </ul>
+
     3 Discord Bots Created
   </li>
   </ul>
