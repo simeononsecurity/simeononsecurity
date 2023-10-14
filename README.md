@@ -50,6 +50,9 @@
 </div>
 </div>
 <div>  
+
+### About Me
+
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
@@ -66,6 +69,15 @@
 
 - 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch) and [cybersentinels.org](https://cybersentinels.org/)
 </div>
+
+### Latest Posts
+<!-- feed start -->
+- Dec 09 - [Effortless Security: Mastering Secure SSHD Configurations](https://simeononsecurity.ch/guides/secure-sshd-configurations-guide/)
+- Dec 08 - [Comparing Azure DevOps, GitHub, GitLab, and BitBucket: Finding the Best Code Repositories](https://simeononsecurity.ch/articles/best-code-repositories-comparison/)
+- Dec 07 - [Cybersecurity in Space: Protecting GPS Signals](https://simeononsecurity.ch/articles/cybersecurity-in-space-protecting-gps-signals/)
+- Dec 06 - [Effortless Docker Image Optimization: 8 Proven Tips for Efficiency](https://simeononsecurity.ch/guides/docker-image-optimization-tips/)
+- Dec 05 - [Budget DIY GPS/GNSS Base Station / Receiver Setup with ESP32 and UM980](https://simeononsecurity.ch/guides/budget-diy-gps-gnss-base-station-setup-esp32-um980/)
+<!-- feed end -->
 
 ### Contribution Highlights 
 <div id="contributions" align="left">
@@ -234,16 +246,6 @@
   </ul>
 </div>
 
-
-
-### Latest Posts
-<!-- feed start -->
-- Dec 09 - [Effortless Security: Mastering Secure SSHD Configurations](https://simeononsecurity.ch/guides/secure-sshd-configurations-guide/)
-- Dec 08 - [Comparing Azure DevOps, GitHub, GitLab, and BitBucket: Finding the Best Code Repositories](https://simeononsecurity.ch/articles/best-code-repositories-comparison/)
-- Dec 07 - [Cybersecurity in Space: Protecting GPS Signals](https://simeononsecurity.ch/articles/cybersecurity-in-space-protecting-gps-signals/)
-- Dec 06 - [Effortless Docker Image Optimization: 8 Proven Tips for Efficiency](https://simeononsecurity.ch/guides/docker-image-optimization-tips/)
-- Dec 05 - [Budget DIY GPS/GNSS Base Station / Receiver Setup with ESP32 and UM980](https://simeononsecurity.ch/guides/budget-diy-gps-gnss-base-station-setup-esp32-um980/)
-<!-- feed end -->
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
