@@ -116,6 +116,7 @@
     <!-- GitHub Stars for Discord Bots -->
   <ul>
     <!-- GitHub Stars for Discord Bots -->
+    4 Discord Bots Created
     <li>
       <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me">
         <img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars">
@@ -131,10 +132,12 @@
         <img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars">
       </a>
     </li>
-    3 Discord Bots Created
+    <li>
+      <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me">
+        <img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars">
+      </a>
+    </li>
   </ul>
-
-    3 Discord Bots Created
   </li>
   </ul>
 </div>
