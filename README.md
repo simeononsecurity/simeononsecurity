@@ -49,6 +49,62 @@
   <br>
 </div>
 
+<div>
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Harden-Debloat?style=social" alt="GitHub stars">
+  Over 800 stars on <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat">GitHub</a>
+</div>
+
+<div>
+  <!-- GitHub Forks -->
+  <img src="https://img.shields.io/github/forks/simeononsecurity/Windows-Optimize-Harden-Debloat?style=social" alt="GitHub forks">
+  Over 60 forks on <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat">GitHub</a>
+</div>
+
+<div>
+  <!-- Docker Hub -->
+  <img src="https://img.shields.io/docker/pulls/simeononsecurity?label=Docker%20Hub%20Containers" alt="Docker Hub containers">
+  Dozens of containers maintained on <a href="https://hub.docker.com/u/simeononsecurity">Docker Hub</a>
+</div>
+
+<div>
+  <!-- Firefox Add-ons -->
+  <img src="https://img.shields.io/amo/users/18064722" alt="Firefox add-ons">
+  Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722/">Firefox Add-ons</a>
+</div>
+
+<div>
+  <!-- NPM Packages -->
+  <img src="https://img.shields.io/npm/dt/simeononsecurity" alt="NPM packages">
+  Packages developed for <a href="https://www.npmjs.com/~simeononsecurity">NPM</a>
+</div>
+
+<div>
+  <!-- Python Packages -->
+  <img src="https://img.shields.io/pypi/dm/SimeonOnSecurity" alt="Python packages">
+  Packages for <a href="https://pypi.org/user/SimeonOnSecurity/">Python</a>
+</div>
+
+<div>
+  <!-- Ansible Galaxy Collections -->
+  <img src="https://img.shields.io/ansible/role/d/45299" alt="Ansible Galaxy collections">
+  Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity/">Ansible Galaxy</a>
+</div>
+
+<div>
+  <!-- GitHub Stars for Discord Bots -->
+  <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot">
+    <img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches">
+    <img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot">
+    <img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?style=social" alt="GitHub stars">
+  </a>
+  3 Discord Bots Created
+</div>
+
 <div>  
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
