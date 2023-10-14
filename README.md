@@ -130,6 +130,9 @@
         <a href="https://github.com/MicrosoftDocs/windowsserverdocs/pull/7410">
           <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
         </a>
+        <a href="https://github.com/cmu-sei/GHOSTS/commits?author=simeononsecurity">
+          <img src="https://img.shields.io/badge/Ghosts%20Contributions-grey?logo=github" alt="Ghosts Contributions">
+        </a>
       </td>
     </tr>
   </table>
