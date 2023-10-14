@@ -98,20 +98,24 @@
     </a>
     Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a>
   </li>
-  <li>
-    <!-- Python Packages -->
-    <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">
-      <img src="https://img.shields.io/pypi/dm/SimeonOnSecurity" alt="Python packages">
-    </a>
-    Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a>
-  </li>
-  <li>
-    <!-- Ansible Galaxy Collections -->
-    <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">
-      <img src="https://img.shields.io/ansible/role/d/45299" alt="Ansible Galaxy collections">
-    </a>
-    Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a>
-  </li>
+  <ul>
+    <li>
+      <!-- Python Packages -->
+      Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a>
+      <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">
+        <img src="https://img.shields.io/badge/PyPI-Packages-brightgreen" alt="Python packages">
+      </a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <!-- Ansible Galaxy Collections -->
+      Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a>
+      <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">
+        <img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-brightgreen" alt="Ansible Galaxy collections">
+      </a>
+    </li>
+  </ul>
   <li>
     <!-- GitHub Stars for Discord Bots -->
   <ul>
