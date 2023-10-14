@@ -8,7 +8,7 @@
   <a href="https://github.com/simeononsecurity">
     <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue" alt="GitHub">
   </a>
-  <a href="https://infosec.exchange/@simeononsecurity">
+  <a rel=me href="https://infosec.exchange/@simeononsecurity">
     <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
   </a>
   <a href="https://medium.com/@simeononsecurity">
