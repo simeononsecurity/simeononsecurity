@@ -68,7 +68,7 @@
 </div>
 
 ### Contribution Highlights 
-<div id="contributions" align="center">
+<div id="contributions" align="left">
   <ul>
   <li>
     <!-- GitHub Forks -->
