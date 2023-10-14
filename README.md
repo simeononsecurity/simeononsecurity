@@ -88,11 +88,11 @@
     </tr>
     <tr>
       <td>Dozens of containers maintained on <a href="https://hub.docker.com/u/simeononsecurity" rel="me">Docker Hub</a></td>
-      <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-brightgreen" alt="Docker Hub containers"></a></td>
+      <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-blue" alt="Docker Hub containers"></a></td>
     </tr>
     <tr>
       <td>Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
-      <td><a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-brightgreen" alt="Firefox add-ons"></a></td>
+      <td><a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange" alt="Firefox add-ons"></a></td>
     </tr>
     <tr>
       <td>Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a></td>
@@ -100,19 +100,19 @@
     </tr>
     <tr>
       <td>Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a></td>
-      <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-brightgreen" alt="Python packages"></a></td>
+      <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-yellow" alt="Python packages"></a></td>
     </tr>
     <tr>
       <td>Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a></td>
-      <td><a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-brightgreen" alt="Ansible Galaxy collections"></a></td>
+      <td><a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-red" alt="Ansible Galaxy collections"></a></td>
     </tr>
     <tr>
       <td>PowerShell Modules on <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">PowerShell Gallery</a></td>
-      <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-brightgreen" alt="PowerShell Gallery profile"></a></td>
+      <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-blue" alt="PowerShell Gallery profile"></a></td>
     </tr>
     <tr>
       <td>Packages published on <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">Chocolatey</a></td>
-      <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-brightgreen" alt="Chocolatey Community profile"></a></td>
+      <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-blue" alt="Chocolatey Community profile"></a></td>
     </tr>
     <tr>
       <td>4 Discord Bots Created</td>
