@@ -27,11 +27,11 @@
   
   <div>
     <!-- Website -->
-    <arel=me  href="https://simeononsecurity.ch">
+    <arel=me  href="https://simeononsecurity.com">
       <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
     </a>
     <!-- RSS Feed -->
-    <a rel=me href="https://simeononsecurity.ch/index.xml">
+    <a rel=me href="https://simeononsecurity.com/index.xml">
       <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
     </a>
     <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
@@ -42,7 +42,7 @@
 
   <!-- GitHub Profile Views -->
   <div align="center">
-    <a href="https://simeononsecurity.ch">
+    <a href="https://simeononsecurity.com">
       <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
     </a>
   </div>
@@ -67,7 +67,7 @@
 
 - 💬 Collaborate with me and other Cyber Security and IT Professionals on the [Cyber Sentinels Discord](https://discord.io/cybersentinels)
 
-- 📝 I regulary write articles on [simeononsecurity.ch](https://simeononsecurity.ch) and [cybersentinels.org](https://cybersentinels.org/)
+- 📝 I regulary write articles on [simeononsecurity.com](https://simeononsecurity.com) and [cybersentinels.org](https://cybersentinels.org/)
 </div>
 
 ### Latest Posts
