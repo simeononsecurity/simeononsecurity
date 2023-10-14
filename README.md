@@ -122,13 +122,13 @@
         <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
     </tr>
     <tr>
-      <td>Contribution to Major Repos</td>
+      <td>Contributions to Major Repos</td>
       <td>
         <a href="https://github.com/ansible/ansible-documentation/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ansible-Contributions-red?logo=github" alt="Ansible Contributions">
         </a>
         <a href="https://github.com/MicrosoftDocs/windowsserverdocs/pull/7410">
-          <img src="https://img.shields.io/badge/Windows-Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
+          <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
         </a>
       </td>
     </tr>
