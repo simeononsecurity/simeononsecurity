@@ -116,10 +116,11 @@
     </tr>
     <tr>
       <td>4 Discord Bots Created</td>
-      <td><a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars"></a></td>
-      <td><a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
-      <td><a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars"></a></td>
-      <td><a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
+      <td>
+        <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars"></a>
+        <a href="https://github.com/CyberSentinels/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a>
+        <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars"></a>
+        <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
     </tr>
   </table>
 </div>
