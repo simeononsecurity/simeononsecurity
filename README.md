@@ -51,7 +51,7 @@
 
 <div>
   <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Harden-Debloat?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/stars/simeononsecurity?style=social" alt="GitHub stars">
   Over 800 stars on <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat">GitHub</a>
 </div>
 
