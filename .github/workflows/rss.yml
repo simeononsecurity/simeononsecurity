@@ -13,7 +13,7 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: 'https://simeononsecurity.ch/index.xml'
+          url: 'https://simeononsecurity.com/index.xml'
           file: 'README.md'
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
