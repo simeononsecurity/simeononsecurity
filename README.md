@@ -115,7 +115,7 @@
       <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-blue" alt="Chocolatey Community profile"></a></td>
     </tr>
     <tr>
-      <td>4 Discord Bots Created</td>
+      <td>3 Discord Bots Created</td>
       <td>
         <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars"></a>
         <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars"></a>
