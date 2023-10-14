@@ -74,11 +74,11 @@
       <!-- GitHub Forks -->
       <ul>
         <li>
-          Over 60 forks on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a>
+          Over 1k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a>
           <ul>
             <li>
               <a href="https://github.com/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/github/forks/simeononsecurity?style=social" alt="GitHub forks">
+                <img src="https://img.shields.io/github/stars/simeononsecurity" alt="GitHub Stars">
               </a>
             </li>
           </ul>
@@ -93,8 +93,7 @@
           <ul>
             <li>
               <a href="https://hub.docker.com/u/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/docker/pulls/simeononsecurity?label=Docker%20Hub%20Containers"
-                  alt="Docker Hub containers">
+                <img src="https://img.shields.io/docker/pulls/simeononsecurity" alt="Docker Hub containers">
               </a>
             </li>
           </ul>
@@ -105,8 +104,7 @@
       <!-- Firefox Add-ons -->
       <ul>
         <li>
-          Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox
-            Add-ons</a>
+          Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a>
           <ul>
             <li>
               <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">
