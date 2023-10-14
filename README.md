@@ -93,7 +93,7 @@
           <ul>
             <li>
               <a href="https://hub.docker.com/u/simeononsecurity" rel="me">
-                <img src="https://img.shields.io/docker/pulls/simeononsecurity" alt="Docker Hub containers">
+                <img src="https://img.shields.io/badge/Docker-Containers-brightgreen" alt="Docker Hub containers">
               </a>
             </li>
           </ul>
@@ -108,7 +108,7 @@
           <ul>
             <li>
               <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">
-                <img src="https://img.shields.io/amo/users/18064722" alt="Firefox add-ons">
+                <img src="https://img.shields.io/badge/FireFox-Extensions-brightgreen" alt="Firefox add-ons">
               </a>
             </li>
           </ul>
