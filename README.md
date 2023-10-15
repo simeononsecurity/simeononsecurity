@@ -17,7 +17,7 @@
   <br>
 
   <!-- Discord -->
-  <a href="https://discord.io/cybersentinels">
+  <a href="https://discord.gg/CYVe2CyrXk">
     <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a rel=me href="https://discord.gg/dwurqrfsAZ">
@@ -65,7 +65,7 @@
 
 - 💬 Ask me about **PowerShell, STIGs, SRGs and Compliance**
 
-- 💬 Collaborate with me and other Cyber Security and IT Professionals on the [Cyber Sentinels Discord](https://discord.io/cybersentinels)
+- 💬 Collaborate with me and other Cyber Security and IT Professionals on the [Cyber Sentinels Discord](https://discord.gg/CYVe2CyrXk)
 
 - 📝 I regulary write articles on [simeononsecurity.com](https://simeononsecurity.com) and [cybersentinels.org](https://cybersentinels.org/)
 </div>
