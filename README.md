@@ -103,16 +103,19 @@
       <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-yellow" alt="Python packages"></a></td>
     </tr>
     <tr>
-      <td>Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a></td>
-      <td><a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-red" alt="Ansible Galaxy collections"></a></td>
-    </tr>
-    <tr>
       <td>PowerShell Modules on <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">PowerShell Gallery</a></td>
       <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-blue" alt="PowerShell Gallery profile"></a></td>
     </tr>
     <tr>
       <td>Packages published on <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">Chocolatey</a></td>
       <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-blue" alt="Chocolatey Community profile"></a></td>
+    </tr>
+    <tr>
+      <td>Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a></td>
+      <td>
+        <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-red" alt="Ansible Galaxy Collections"></a>
+        <a href="https://galaxy.ansible.com/ui/standalone/namespaces/7855/" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Roles-red" alt="Ansible Galaxy Roles"></a>
+      </td>
     </tr>
     <tr>
       <td>3 Discord Bots Created</td>
