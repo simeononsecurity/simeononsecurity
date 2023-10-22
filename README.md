@@ -26,7 +26,7 @@
   
   <div>
     <!-- Website -->
-    <arel=me  href="https://simeononsecurity.com">
+    <a rel=me href="https://simeononsecurity.com">
       <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
     </a>
     <!-- RSS Feed -->
