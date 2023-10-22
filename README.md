@@ -74,7 +74,7 @@
 - Dec 21 - [Why Regulatory Compliance Alone Doesn't Ensure Security](https://simeononsecurity.com/articles/regulatory-compliance-vs-true-security/)
 - Dec 21 - [Why User Training Trumps Advanced Tech in Cybersecurity](https://simeononsecurity.com/articles/user-training-vs-advanced-tech-cybersecurity/)
 - Dec 20 - [Human Error: A Leading Cause of Data Breaches](https://simeononsecurity.com/articles/mitigating-human-error-data-breaches/)
-- Dec 19 - [Nation-States in Cyber Warfare: Major Players Unveiled](https://simeononsecurity.com/articles/nation-states-major-players-cyber-warfare/)
+- Dec 19 - [Nation-States in Cyber Warfare](https://simeononsecurity.com/articles/nation-states-major-players-cyber-warfare/)
 <!-- feed end -->
 
 ### Contribution Highlights 
