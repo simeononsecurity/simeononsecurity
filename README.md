@@ -71,11 +71,11 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Dec 13 - [Effortless Dual Mining Guide: WingBits and DeFli Setup](https://simeononsecurity.com/other/effortless-dual-mining-wingbits-defli-guide/)
-- Dec 12 - [Unlock Your Cybersecurity Future: Microsoft Security Certification Path](https://simeononsecurity.com/articles/microsoft-security-certification-path/)
-- Dec 11 - [SyncThing vs FreeFileSync: Which is Best for Effortless File Sync?](https://simeononsecurity.com/articles/syncthing-vs-freefilesync-comparison/)
-- Dec 10 - [Unlocking Precision: Onocoy's Supported RTCM Messages](https://simeononsecurity.com/other/onocoy-supported-rtcm-messages/)
-- Dec 09 - [Effortless Security: Mastering Secure SSHD Configurations](https://simeononsecurity.com/guides/secure-sshd-configurations-guide/)
+- Dec 22 - [Cracking Up: Exploring Hilarious Cybersecurity Jokes](https://simeononsecurity.com/articles/cybersecurity-jokes-humor-insights/)
+- Dec 21 - [Why Regulatory Compliance Alone Doesn't Ensure Security](https://simeononsecurity.com/articles/regulatory-compliance-vs-true-security/)
+- Dec 21 - [Why User Training Trumps Advanced Tech in Cybersecurity](https://simeononsecurity.com/articles/user-training-vs-advanced-tech-cybersecurity/)
+- Dec 20 - [Human Error: A Leading Cause of Data Breaches](https://simeononsecurity.com/articles/mitigating-human-error-data-breaches/)
+- Dec 19 - [Nation-States in Cyber Warfare: Major Players Unveiled](https://simeononsecurity.com/articles/nation-states-major-players-cyber-warfare/)
 <!-- feed end -->
 
 ### Contribution Highlights 
