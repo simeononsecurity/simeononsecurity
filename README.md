@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
   <br>
-
   <!-- Discord -->
   <a href="https://discord.gg/CYVe2CyrXk">
     <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
