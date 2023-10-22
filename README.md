@@ -72,11 +72,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 13 - [Effortless Dual Mining Guide: WingBits and DeFli Setup](https://simeononsecurity.com/other/effortless-dual-mining-wingbits-defli-guide/)
+- Dec 12 - [Unlock Your Cybersecurity Future: Microsoft Security Certification Path](https://simeononsecurity.com/articles/microsoft-security-certification-path/)
+- Dec 11 - [SyncThing vs FreeFileSync: Which is Best for Effortless File Sync?](https://simeononsecurity.com/articles/syncthing-vs-freefilesync-comparison/)
 - Dec 10 - [Unlocking Precision: Onocoy's Supported RTCM Messages](https://simeononsecurity.com/other/onocoy-supported-rtcm-messages/)
 - Dec 09 - [Effortless Security: Mastering Secure SSHD Configurations](https://simeononsecurity.com/guides/secure-sshd-configurations-guide/)
-- Dec 08 - [Comparing Azure DevOps, GitHub, GitLab, and BitBucket: Finding the Best Code Repositories](https://simeononsecurity.com/articles/best-code-repositories-comparison/)
-- Dec 07 - [Cybersecurity in Space: Protecting GPS Signals](https://simeononsecurity.com/articles/cybersecurity-in-space-protecting-gps-signals/)
-- Dec 06 - [Effortless Docker Image Optimization: 8 Proven Tips for Efficiency](https://simeononsecurity.com/guides/docker-image-optimization-tips/)
 <!-- feed end -->
 
 ### Contribution Highlights 
