@@ -38,7 +38,6 @@
     </a>
     <br>
   </div>
-
   <!-- GitHub Profile Views -->
   <div align="center">
     <a href="https://simeononsecurity.com">
