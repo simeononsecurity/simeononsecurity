@@ -71,11 +71,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 25 - [Effortless NAS Setup: Turn Linux into a High-Performance Server](https://simeononsecurity.com/guides/turn-linux-into-nas-nfs-cifs/)
+- Dec 23 - [Tech Jargon Glossary: A Beginner's Guide to IT and Cyber Security Acronyms](https://simeononsecurity.com/articles/effortless-tech-acronyms-beginners-guide/)
 - Dec 22 - [Cracking Up: Exploring Hilarious Cybersecurity Jokes](https://simeononsecurity.com/articles/cybersecurity-jokes-humor-insights/)
 - Dec 21 - [Why Regulatory Compliance Alone Doesn't Ensure Security](https://simeononsecurity.com/articles/regulatory-compliance-vs-true-security/)
 - Dec 21 - [Why User Training Trumps Advanced Tech in Cybersecurity](https://simeononsecurity.com/articles/user-training-vs-advanced-tech-cybersecurity/)
-- Dec 20 - [Human Error: A Leading Cause of Data Breaches](https://simeononsecurity.com/articles/mitigating-human-error-data-breaches/)
-- Dec 19 - [Nation-States in Cyber Warfare](https://simeononsecurity.com/articles/nation-states-major-players-cyber-warfare/)
 <!-- feed end -->
 
 ### Contribution Highlights 
