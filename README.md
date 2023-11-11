@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Simeon</h1>
 <h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
 <div id="badges" align="center">
