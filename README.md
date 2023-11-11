@@ -70,11 +70,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Dec 29 - [ADSB SDR Adapter Performance in Flight Tracking: Key Insights and Comparisons](https://simeononsecurity.com/other/adsb-sdr-adapter-performance-insights/)
+- Dec 28 - [Geodnet MobileCM UM980 Upgrade & Alternative Mini-PCIe Cards](https://simeononsecurity.com/other/gnss-upgrade-um980-alternative-mini-pcie-cards/)
 - Dec 27 - [Unveiling the Best GPS Antennas: Optimize Onocoy & Geodnet Earnings!](https://simeononsecurity.com/other/unveiling-best-gps-antennas-onocoy-geodnet/)
 - Dec 26 - [The Guide to Undercover Pentesting Disguises](https://simeononsecurity.com/guides/undercover-pentester-disguises-guide/)
 - Dec 25 - [Effortless NAS Setup: Turn Linux into a High-Performance Server](https://simeononsecurity.com/guides/turn-linux-into-nas-nfs-cifs/)
-- Dec 23 - [Tech Jargon Glossary: A Beginner's Guide to IT and Cyber Security Acronyms](https://simeononsecurity.com/articles/effortless-tech-acronyms-beginners-guide/)
-- Dec 22 - [Cracking Up: Exploring Hilarious Cybersecurity Jokes](https://simeononsecurity.com/articles/cybersecurity-jokes-humor-insights/)
 <!-- feed end -->
 
 ### Contribution Highlights 
