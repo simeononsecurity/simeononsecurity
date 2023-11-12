@@ -72,10 +72,10 @@
 ### Latest Posts
 <!-- feed start -->
 - Dec 29 - [ADSB SDR Adapter Performance in Flight Tracking: Key Insights and Comparisons](https://simeononsecurity.com/other/adsb-sdr-adapter-performance-insights/)
+- Dec 29 - [Affordable GNSS Solutions: UM980 and UM982 for Precise Positioning](https://simeononsecurity.com/other/affordable-precision-positioning-gnss-modules/)
 - Dec 28 - [Geodnet MobileCM UM980 Upgrade & Alternative Mini-PCIe Cards](https://simeononsecurity.com/other/gnss-upgrade-um980-alternative-mini-pcie-cards/)
 - Dec 27 - [Unveiling the Best GPS Antennas: Optimize Onocoy & Geodnet Earnings!](https://simeononsecurity.com/other/unveiling-best-gps-antennas-onocoy-geodnet/)
 - Dec 26 - [The Guide to Undercover Pentesting Disguises](https://simeononsecurity.com/guides/undercover-pentester-disguises-guide/)
-- Dec 25 - [Effortless NAS Setup: Turn Linux into a High-Performance Server](https://simeononsecurity.com/guides/turn-linux-into-nas-nfs-cifs/)
 <!-- feed end -->
 
 ### Contribution Highlights 
