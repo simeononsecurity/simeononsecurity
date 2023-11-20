@@ -71,11 +71,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 01 - [Triple Mining GPS Revolution: Geodnet, Onocoy, and RTKDirect Unleashed!](https://simeononsecurity.com/other/triple-mining-geodnet-onocoy-rtkdirect-gps-revolution/)
+- Dec 31 - [Unlock Precision: Build Your DIY RTKDirect Reference Station Today!](https://simeononsecurity.com/other/diy-rtkdirect-reference-station-guide/)
 - Dec 30 - [Empowering Cybersecurity: ChatGPT Prompts that Boost Threat Detection](https://simeononsecurity.com/guides/empowering-cybersecurity-chatgpt-threat-detection/)
 - Dec 29 - [ADSB SDR Adapter Performance in Flight Tracking: Key Insights and Comparisons](https://simeononsecurity.com/other/adsb-sdr-adapter-performance-insights/)
 - Dec 29 - [Affordable GNSS Solutions: UM980 and UM982 for Precise Positioning](https://simeononsecurity.com/other/affordable-precision-positioning-gnss-modules/)
-- Dec 28 - [Geodnet MobileCM UM980 Upgrade & Alternative Mini-PCIe Cards](https://simeononsecurity.com/other/gnss-upgrade-um980-alternative-mini-pcie-cards/)
-- Dec 27 - [Unveiling the Best GPS Antennas: Optimize Onocoy & Geodnet Earnings!](https://simeononsecurity.com/other/unveiling-best-gps-antennas-onocoy-geodnet/)
 <!-- feed end -->
 
 ### Contribution Highlights 
