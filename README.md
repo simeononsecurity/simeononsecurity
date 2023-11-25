@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">Cybersecurity Pro and Automation Enthusiast - Projects, Learning, Writing, and More</h3>
+<h3 align="center">Cybersecurity Professional and Devops Engineer - Projects, Learning, Writing, and More</h3>
 <div id="badges" align="center">
   <!-- Like Buttons -->
   <a rel=me  href="https://twitter.com/SimeonSecurity">
@@ -90,7 +90,8 @@
       <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-blue" alt="Docker Hub containers"></a></td>
     </tr>
     <tr>
-      <td>Extensions Created for <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
+      <td>Extensions Created for <a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me">Chrome</a> and <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
+      <td><a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me"><img src="https://img.shields.io/badge/Chrome-Extensions-grey" alt="Chrome Extensions"></a></td>
       <td><a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange" alt="Firefox add-ons"></a></td>
     </tr>
     <tr>
