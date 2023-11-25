@@ -91,8 +91,7 @@
     </tr>
     <tr>
       <td>Extensions Created for <a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me">Chrome</a> and <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
-      <td><a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me"><img src="https://img.shields.io/badge/Chrome-Extensions-grey" alt="Chrome Extensions"></a></td>
-      <td><a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange" alt="Firefox add-ons"></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me"><img src="https://img.shields.io/badge/Chrome-Extensions-white" alt="Chrome Extensions"></a> <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange" alt="Firefox add-ons"></a></td>
     </tr>
     <tr>
       <td>Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a></td>
