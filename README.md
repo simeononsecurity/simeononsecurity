@@ -52,6 +52,7 @@
 
 ### About Me
 
+#<img width="50%" align="right" alt="Github Image" src="https://simeononsecurity.com/img/transparentavatar.png" />
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
