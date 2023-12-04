@@ -78,6 +78,11 @@
 - Dec 29 - [ADSB SDR Adapter Performance in Flight Tracking: Key Insights and Comparisons](https://simeononsecurity.com/other/adsb-sdr-adapter-performance-insights/)
 <!-- feed end -->
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ### Contribution Highlights 
 <div id="contributions" align="left">
   <table>
