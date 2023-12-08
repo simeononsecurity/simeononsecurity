@@ -71,11 +71,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jan 03 - [Ubiquiti's UniFi Express: A Review of the Compact Gateway and WiFi 6 AP](https://simeononsecurity.com/articles/exploring-unifi-express-all-in-one-network-gateway/)
 - Jan 02 - [Decentralization Dynamics: Mastering the 3.2.1-1 Rule for Blockchain Resilience](https://simeononsecurity.com/articles/decentralization-dynamics-3-2-1-rule-blockchain/)
 - Jan 01 - [Triple Mining GPS Revolution: Geodnet, Onocoy, and RTKDirect Unleashed!](https://simeononsecurity.com/other/triple-mining-geodnet-onocoy-rtkdirect-gps-revolution/)
 - Dec 31 - [Unlock Precision: Build Your DIY RTKDirect Reference Station Today!](https://simeononsecurity.com/other/diy-rtkdirect-reference-station-guide/)
 - Dec 30 - [Empowering Cybersecurity: ChatGPT Prompts that Boost Threat Detection](https://simeononsecurity.com/guides/empowering-cybersecurity-chatgpt-threat-detection/)
-- Dec 29 - [ADSB SDR Adapter Performance in Flight Tracking: Key Insights and Comparisons](https://simeononsecurity.com/other/adsb-sdr-adapter-performance-insights/)
 <!-- feed end -->
 
 ### 📺 Latest YouTube Videos
