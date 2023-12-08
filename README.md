@@ -78,12 +78,6 @@
 - Dec 30 - [Empowering Cybersecurity: ChatGPT Prompts that Boost Threat Detection](https://simeononsecurity.com/guides/empowering-cybersecurity-chatgpt-threat-detection/)
 <!-- feed end -->
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
-
 ### Contribution Highlights 
 <div id="contributions" align="left">
   <table>
@@ -146,6 +140,11 @@
   </table>
 </div>
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 
 
 <!--
