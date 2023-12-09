@@ -78,6 +78,16 @@
 - Dec 30 - [Empowering Cybersecurity: ChatGPT Prompts that Boost Threat Detection](https://simeononsecurity.com/guides/empowering-cybersecurity-chatgpt-threat-detection/)
 <!-- feed end -->
 
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Vl7tpDWyyyg&title=ISC2+CISSP+Question+101+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Vl7tpDWyyyg)
+[![ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=ufWMJtJw_Pg&title=ISC2+CISSP+Question+102+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=ufWMJtJw_Pg)
+[![ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Nhuq4C8_o4M&title=ISC2+CISSP+Question+103+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Nhuq4C8_o4M)
+<!-- END YOUTUBE-CARDS -->
+
+
+
 ### Contribution Highlights 
 <div id="contributions" align="left">
   <table>
@@ -139,15 +149,6 @@
     </tr>
   </table>
 </div>
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Vl7tpDWyyyg&title=ISC2+CISSP+Question+101+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Vl7tpDWyyyg)
-[![ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=ufWMJtJw_Pg&title=ISC2+CISSP+Question+102+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=ufWMJtJw_Pg)
-[![ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Nhuq4C8_o4M&title=ISC2+CISSP+Question+103+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Nhuq4C8_o4M)
-<!-- END YOUTUBE-CARDS -->
-
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
