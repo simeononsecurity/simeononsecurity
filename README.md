@@ -71,11 +71,11 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Jan 03 - [Ubiquiti's UniFi Express: A Review of the Compact Gateway and WiFi 6 AP](https://simeononsecurity.com/articles/exploring-unifi-express-all-in-one-network-gateway/)
-- Jan 02 - [Decentralization Dynamics: Mastering the 3.2.1-1 Rule for Blockchain Resilience](https://simeononsecurity.com/articles/decentralization-dynamics-3-2-1-rule-blockchain/)
-- Jan 01 - [Triple Mining GPS Revolution: Geodnet, Onocoy, and RTKDirect Unleashed!](https://simeononsecurity.com/other/triple-mining-geodnet-onocoy-rtkdirect-gps-revolution/)
-- Dec 31 - [Unlock Precision: Build Your DIY RTKDirect Reference Station Today!](https://simeononsecurity.com/other/diy-rtkdirect-reference-station-guide/)
-- Dec 30 - [Empowering Cybersecurity: ChatGPT Prompts that Boost Threat Detection](https://simeononsecurity.com/guides/empowering-cybersecurity-chatgpt-threat-detection/)
+- Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
+- Mar 12 - [Maximize Connectivity with USB Standards & Ports Guide](https://simeononsecurity.com/articles/usb-standards-and-ports_-a-users-guide/)
+- Mar 11 - [Unlocking Virtualization: Boost IT Efficiency & Scalability](https://simeononsecurity.com/articles/understanding-virtualization_-concepts-and-applications/)
+- Mar 10 - [Career Climb: Navigating IT Certification Updates Effectively](https://simeononsecurity.com/articles/understanding-the-impact-of-certification-updates-on-your-it-career/)
+- Mar 09 - [RAID Technology Decoded: Enhancing Data Storage with Redundancy](https://simeononsecurity.com/articles/understanding-raid_-types-and-their-uses-in-data-storage/)
 <!-- feed end -->
 
 ### 📺 Latest YouTube Videos
