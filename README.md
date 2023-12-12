@@ -73,9 +73,9 @@
 <!-- feed start -->
 - Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
 - Mar 12 - [Maximize Connectivity with USB Standards & Ports Guide](https://simeononsecurity.com/articles/usb-standards-and-ports_-a-users-guide/)
+- Mar 11 - [DualMining WeatherXM and FrysCrypto: Maximizing Rewards and Token Benefits](https://simeononsecurity.com/other/dualmining-weatherxm-fryscrypto-maximize-rewards/)
+- Mar 11 - [Mining Duinocoin on ESP32: A Comprehensive Guide for Efficient Cryptocurrency Mining](https://simeononsecurity.com/other/mining-duinocoin-esp32-guide/)
 - Mar 11 - [Unlocking Virtualization: Boost IT Efficiency & Scalability](https://simeononsecurity.com/articles/understanding-virtualization_-concepts-and-applications/)
-- Mar 10 - [Career Climb: Navigating IT Certification Updates Effectively](https://simeononsecurity.com/articles/understanding-the-impact-of-certification-updates-on-your-it-career/)
-- Mar 09 - [RAID Technology Decoded: Enhancing Data Storage with Redundancy](https://simeononsecurity.com/articles/understanding-raid_-types-and-their-uses-in-data-storage/)
 <!-- feed end -->
 
 ### 📺 Latest YouTube Videos
