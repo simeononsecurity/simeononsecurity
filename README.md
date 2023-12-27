@@ -69,24 +69,6 @@
 - 📝 I regulary write articles on [simeononsecurity.com](https://simeononsecurity.com) and [cybersentinels.org](https://cybersentinels.org/)
 </div>
 
-### Latest Posts
-<!-- feed start -->
-- Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
-- Mar 12 - [Maximize Connectivity with USB Standards & Ports Guide](https://simeononsecurity.com/articles/usb-standards-and-ports_-a-users-guide/)
-- Mar 12 - [Unlocking Cybersecurity Success: Navigating Careers with Certifications](https://simeononsecurity.com/articles/cybersecurity-career-transition-certifications/)
-- Mar 11 - [DualMining WeatherXM and FrysCrypto: Maximizing Rewards and Token Benefits](https://simeononsecurity.com/other/dualmining-weatherxm-fryscrypto-maximize-rewards/)
-- Mar 11 - [Mining Duinocoin on ESP32: A Comprehensive Guide for Efficient Cryptocurrency Mining](https://simeononsecurity.com/other/mining-duinocoin-esp32-guide/)
-<!-- feed end -->
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Vl7tpDWyyyg&title=ISC2+CISSP+Question+101+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Vl7tpDWyyyg)
-[![ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=ufWMJtJw_Pg&title=ISC2+CISSP+Question+102+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=ufWMJtJw_Pg)
-[![ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Nhuq4C8_o4M&title=ISC2+CISSP+Question+103+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Nhuq4C8_o4M)
-<!-- END YOUTUBE-CARDS -->
-
-
 
 ### Contribution Highlights 
 <div id="contributions" align="left">
@@ -144,11 +126,27 @@
         </a>
         <a href="https://github.com/cmu-sei/GHOSTS/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ghosts%20Contributions-grey?logo=github" alt="Ghosts Contributions">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
+### Latest Posts
+<!-- feed start -->
+- Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
+- Mar 12 - [Maximize Connectivity with USB Standards & Ports Guide](https://simeononsecurity.com/articles/usb-standards-and-ports_-a-users-guide/)
+- Mar 12 - [Unlocking Cybersecurity Success: Navigating Careers with Certifications](https://simeononsecurity.com/articles/cybersecurity-career-transition-certifications/)
+- Mar 11 - [DualMining WeatherXM and FrysCrypto: Maximizing Rewards and Token Benefits](https://simeononsecurity.com/other/dualmining-weatherxm-fryscrypto-maximize-rewards/)
+- Mar 11 - [Mining Duinocoin on ESP32: A Comprehensive Guide for Efficient Cryptocurrency Mining](https://simeononsecurity.com/other/mining-duinocoin-esp32-guide/)
+<!-- feed end -->
+
+### Cyber Sentinels Theme Song
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1700773479&color=%232c213d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/simeononsecurity" title="Simeononsecurity" target="_blank" style="color: #cccccc; text-decoration: none;">Simeononsecurity</a> · <a href="https://soundcloud.com/simeononsecurity/cyber-sentinels-hack-the-planet" title="Cyber Sentinels Hack The Planet" target="_blank" style="color: #cccccc; text-decoration: none;">Cyber Sentinels Hack The Planet</a></div>
+
+### Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Vl7tpDWyyyg&title=ISC2+CISSP+Question+101+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104315&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 101 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Vl7tpDWyyyg)
+[![ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=ufWMJtJw_Pg&title=ISC2+CISSP+Question+102+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 102 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=ufWMJtJw_Pg)
+[![ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity](https://ytcards.demolab.com/?id=Nhuq4C8_o4M&title=ISC2+CISSP+Question+103+%23CertifiedInfoSecProfessional+%23QuizTime+%23MasterInfoSecurity&lang=en&timestamp=1700104311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "ISC2 CISSP Question 103 #CertifiedInfoSecProfessional #QuizTime #MasterInfoSecurity")](https://www.youtube.com/watch?v=Nhuq4C8_o4M)
+<!-- END YOUTUBE-CARDS -->
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
