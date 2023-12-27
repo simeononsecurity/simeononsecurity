@@ -142,9 +142,6 @@
 - Mar 11 - [Mining Duinocoin on ESP32: A Comprehensive Guide for Efficient Cryptocurrency Mining](https://simeononsecurity.com/other/mining-duinocoin-esp32-guide/)
 <!-- feed end -->
 
-### Cyber Sentinels Theme Song
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1700773479&color=%232c213d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/simeononsecurity" title="Simeononsecurity" target="_blank" style="color: #cccccc; text-decoration: none;">Simeononsecurity</a> · <a href="https://soundcloud.com/simeononsecurity/cyber-sentinels-hack-the-planet" title="Cyber Sentinels Hack The Planet" target="_blank" style="color: #cccccc; text-decoration: none;">Cyber Sentinels Hack The Planet</a></div>
-
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
