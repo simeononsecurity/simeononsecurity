@@ -126,6 +126,11 @@
         </a>
         <a href="https://github.com/cmu-sei/GHOSTS/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ghosts%20Contributions-grey?logo=github" alt="Ghosts Contributions">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Latest Posts
