@@ -135,11 +135,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Mar 14 - [Boost Your Helium Mobile Hotspot: Mastering Range and Speed with External Antennas](https://simeononsecurity.com/other/helium-mobile-hotspot-external-antennas-guide/)
 - Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
 - Mar 12 - [Maximize Connectivity with USB Standards & Ports Guide](https://simeononsecurity.com/articles/usb-standards-and-ports_-a-users-guide/)
 - Mar 12 - [Unlocking Cybersecurity Success: Navigating Careers with Certifications](https://simeononsecurity.com/articles/cybersecurity-career-transition-certifications/)
 - Mar 11 - [DualMining WeatherXM and FrysCrypto: Maximizing Rewards and Token Benefits](https://simeononsecurity.com/other/dualmining-weatherxm-fryscrypto-maximize-rewards/)
-- Mar 11 - [Mining Duinocoin on ESP32: A Comprehensive Guide for Efficient Cryptocurrency Mining](https://simeononsecurity.com/other/mining-duinocoin-esp32-guide/)
 <!-- feed end -->
 
 ### Latest YouTube Videos
