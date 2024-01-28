@@ -69,6 +69,7 @@
 </div>
 
 <hr>
+
 ### Contribution Highlights 
 <div id="contributions" align="left">
   <table>
