@@ -132,6 +132,7 @@
 </div>
 
 <hr>
+
 ### Latest Posts
 <!-- feed start -->
 - Mar 14 - [Boost Your Helium Mobile Hotspot: Mastering Range and Speed with External Antennas](https://simeononsecurity.com/other/helium-mobile-hotspot-external-antennas-guide/)
@@ -142,6 +143,7 @@
 <!-- feed end -->
 
 <hr>
+
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
