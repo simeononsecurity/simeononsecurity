@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">Cybersecurity Professional and Devops Engineer</h3>
-<h4 align="center">Projects, Tools, Tutorials, Guide, and More</h4>
+<h2 align="center">Cybersecurity Professional and Devops Engineer</h3>
+<h3 align="center">Projects, Tools, Tutorials, Guide, and More</h4>
 <hr>
 <div id="badges" align="center">
   <!-- Like Buttons -->
@@ -51,8 +51,7 @@
 </div>
 <div>  
 <hr>
-### About Me
-
+<h3 align="left">About Me</h4>
 <img width="30%" align="right" alt="SimeonOnSecurity Avatar" src="https://simeononsecurity.com/img/transparentavatar.png" />
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
