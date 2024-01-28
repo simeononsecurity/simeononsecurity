@@ -164,3 +164,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeononsecurity&layout=compact" alt="simeononsecurity" />
 </p>-->
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
+<a rel="me" href="https://simeononsecurity.com"></a>
+<hr>
