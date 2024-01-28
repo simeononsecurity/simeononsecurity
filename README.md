@@ -68,7 +68,7 @@
 - 📝 I regulary write articles on [simeononsecurity.com](https://simeononsecurity.com) and [cybersentinels.org](https://cybersentinels.org/)
 </div>
 
-
+<hr>
 ### Contribution Highlights 
 <div id="contributions" align="left">
   <table>
@@ -131,7 +131,7 @@
   </table>
 </div>
 
-
+<hr>
 ### Latest Posts
 <!-- feed start -->
 - Mar 14 - [Boost Your Helium Mobile Hotspot: Mastering Range and Speed with External Antennas](https://simeononsecurity.com/other/helium-mobile-hotspot-external-antennas-guide/)
@@ -141,6 +141,7 @@
 - Mar 11 - [DualMining WeatherXM and FrysCrypto: Maximizing Rewards and Token Benefits](https://simeononsecurity.com/other/dualmining-weatherxm-fryscrypto-maximize-rewards/)
 <!-- feed end -->
 
+<hr>
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
