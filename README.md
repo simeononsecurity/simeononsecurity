@@ -115,7 +115,7 @@
         <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
     </tr>
     <tr>
-      <td>Contributions to Major Repos</td>
+      <td>Contributions to Major Repos and Organizations</td>
       <td>
         <a href="https://github.com/ansible/ansible-documentation/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ansible-Contributions-red?logo=github" alt="Ansible Contributions">
@@ -125,6 +125,9 @@
         </a>
         <a href="https://github.com/cmu-sei/GHOSTS/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ghosts%20Contributions-grey?logo=github" alt="Ghosts Contributions">
+        </a>
+        <a href="https://github.com/HYFIX/rtk_rover/commits/main/?author=simeononsecurity">
+          <img src="https://img.shields.io/badge/HYFIX%20Contributions-grey?logo=github" alt="Hyfix and Geodnet Contributions">
         </a>
       </td>
     </tr>
