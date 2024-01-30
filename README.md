@@ -55,7 +55,7 @@
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
 
-- 🌱 I’m currently learning **SEO, Keyword Analysis, and Networking**
+- 🌱 I’m currently learning about and researching **Hotspot / Passpoint 2.0 Technologies, Cellular Carrier Offload Technologies, and WiFi Vulnerabilities**.
  
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
