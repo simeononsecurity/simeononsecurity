@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simeon</h1>
-<h3 align="center">Cybersecurity Professional and Devops Engineer</h3>
-<h4 align="center">Projects, Tools, Tutorials, Guide, and More</h4>
+<h3 align="center">Cybersecurity Professional, Devops Engineer, Educator</h3>
+<h4 align="center">Projects, Tools, Tutorials, Guides, and More</h4>
 <div id="badges" align="center">
   <!-- Like Buttons -->
   <a rel=me  href="https://twitter.com/SimeonSecurity">
