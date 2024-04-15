@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a rel=me href="https://discord.gg/dwurqrfsAZ">
-    <img src="https://img.shields.io/discord/762530227511099432?label=SoS%20Discord&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/discord/762530227511099432?label=SimeonOnSecurity.com%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <br>
   
@@ -55,7 +55,7 @@
 
 - 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
 
-- 🌱 I’m currently learning about and researching **Hotspot / Passpoint 2.0 Technologies, Cellular Carrier Offload Technologies, and WiFi Vulnerabilities**.
+- 🌱 I’m currently learning about and researching **Hotspot / Passpoint 2.0 Technologies, Cellular Carrier Offload Technologies, and WBA OpenRoaming**.
  
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
@@ -123,9 +123,6 @@
         </a>
         <a href="https://github.com/MicrosoftDocs/windowsserverdocs/pull/7410">
           <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
-        </a>
-        <a href="https://github.com/cmu-sei/GHOSTS/commits?author=simeononsecurity">
-          <img src="https://img.shields.io/badge/Ghosts%20Contributions-grey?logo=github" alt="Ghosts Contributions">
         </a>
         <a href="https://github.com/HYFIX/rtk_rover/commits/main/?author=simeononsecurity">
           <img src="https://img.shields.io/badge/HYFIX%20Contributions-grey?logo=github" alt="Hyfix and Geodnet Contributions">
