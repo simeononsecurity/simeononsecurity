@@ -148,7 +148,9 @@
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Cyber Sentinels Hack The Planet - Rock Edition](https://ytcards.demolab.com/?id=8I9zBI0WUXQ&title=Cyber+Sentinels+Hack+The+Planet+-+Rock+Edition&lang=en&timestamp=1709406387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330 "Cyber Sentinels Hack The Planet - Rock Edition")](https://www.youtube.com/watch?v=8I9zBI0WUXQ)
+[![Code Crusader](https://ytcards.demolab.com/?id=YZqD-SLGd5c&title=Code+Crusader&lang=en&timestamp=1709406387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=306 "Code Crusader")](https://www.youtube.com/watch?v=YZqD-SLGd5c)
+[![Cyber Sentinels Hack The Planet](https://ytcards.demolab.com/?id=ZzgScOXxAFM&title=Cyber+Sentinels+Hack+The+Planet&lang=en&timestamp=1709406386&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200 "Cyber Sentinels Hack The Planet")](https://www.youtube.com/watch?v=ZzgScOXxAFM)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
