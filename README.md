@@ -121,6 +121,9 @@
         <a href="https://github.com/ansible/ansible-documentation/commits?author=simeononsecurity">
           <img src="https://img.shields.io/badge/Ansible-Contributions-red?logo=github" alt="Ansible Contributions">
         </a>
+        <a href="https://github.com/FreeRADIUS/freeradius-server/commits/v3.2.x/?author=simeononsecurity">
+          <img src="https://img.shields.io/badge/FreeRadius%20Contributions-grey?logo=github" alt="FreeRadius Contributions">
+        </a>
         <a href="https://github.com/MicrosoftDocs/windowsserverdocs/pull/7410">
           <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
         </a>
