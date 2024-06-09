@@ -74,7 +74,7 @@
 <div id="contributions" align="left">
   <table>
     <tr>
-      <td>Over 1k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a></td>
+      <td>Over 2k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a></td>
       <td><a href="https://github.com/simeononsecurity" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity" alt="GitHub Stars"></a></td>
     </tr>
     <tr>
