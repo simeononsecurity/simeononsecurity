@@ -1,0 +1,17 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    - cron: '0 0 0 * *'
+  workflow_dispatch:
+  push:
+
+jobs:
+  update-sponsors-section:
+    name: Update this repo's README's sponsors.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: matthewjdegarmo/Sponsors@latest
+        with:
+          sponsors_file: ./.github/SPONSORS.yaml
+          readme_file: ./README.md
