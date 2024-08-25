@@ -173,3 +173,5 @@
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
 <hr>
+<!-- SPONSORS-LIST:START -->
+<!-- SPONSORS-LIST:END -->
