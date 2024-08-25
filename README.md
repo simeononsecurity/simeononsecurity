@@ -34,6 +34,9 @@
     <a rel=me href="https://simeononsecurity.com/index.xml">
       <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
     </a>
+    <a href="https://github.com/sponsors/simeononsecurity" target="_blank">
+      <img src="https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4" alt="Sponsor">
+    </a>
     <br>
   </div>
   <!-- GitHub Profile Views -->
@@ -44,18 +47,6 @@
   </div>
   <br>
 </div>
-
-<h2>Support My Work</h2>
-
-<p>If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.</p>
-
-<a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
-  <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Me&style=social" alt="GitHub Sponsors">
-</a>
-
-<p>Thank you for your support!</p>
-
-
 </div>
 <div>  
 <hr>
@@ -179,3 +170,15 @@
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
 <hr>
+<h2>Support My Work</h2>
+
+<p>If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.</p>
+
+<a href="https://github.com/sponsors/simeononsecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4" alt="Sponsor">
+</a>
+<a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
+  <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Count&style=social" alt="GitHub Sponsors">
+</a>
+
+<p>Thank you for your support!</p>
