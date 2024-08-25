@@ -44,6 +44,9 @@
     <a href="https://simeononsecurity.com">
       <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
     </a>
+    <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
+      <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Count&style=social" alt="GitHub Sponsors">
+    </a>
   </div>
   <br>
 </div>
@@ -170,9 +173,3 @@
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
 <hr>
-<h2>Support My Work</h2>
-<p>If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.</p>
-<a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
-  <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Count&style=social" alt="GitHub Sponsors">
-</a>
-<p>Thank you for your support!</p>
