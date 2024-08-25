@@ -44,15 +44,17 @@
   </div>
   <br>
 </div>
-## Support My Work
 
-If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.
+<h2>Support My Work</h2>
+
+<p>If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.</p>
 
 <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
   <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Me&style=social" alt="GitHub Sponsors">
 </a>
 
-Thank you for your support!
+<p>Thank you for your support!</p>
+
 
 </div>
 <div>  
