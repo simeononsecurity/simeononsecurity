@@ -34,9 +34,6 @@
     <a rel=me href="https://simeononsecurity.com/index.xml">
       <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
     </a>
-    <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
-      <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor&style=social" alt="GitHub Sponsors">
-    </a>
     <br>
   </div>
   <!-- GitHub Profile Views -->
@@ -47,6 +44,16 @@
   </div>
   <br>
 </div>
+## Support My Work
+
+If you find my projects useful or enjoy the content I create, please consider supporting me! Your sponsorship helps me continue developing and sharing valuable tools and resources.
+
+<a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
+  <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Me&style=social" alt="GitHub Sponsors">
+</a>
+
+Thank you for your support!
+
 </div>
 <div>  
 <hr>
