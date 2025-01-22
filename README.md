@@ -142,7 +142,6 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Apr 21 - [Ultimate XNET Guide - Optimize Your Installation](https://simeononsecurity.com/other/ultimate-xnet-connectivity-guide/)
 - Mar 22 - [Configuring Hotspot 2.0 on Alta Labs Access Points Easily](https://simeononsecurity.com/guides/configuring-hotspot-20-alta-labs-access-points/)
 - Mar 14 - [Boost Your Helium Mobile Hotspot: Mastering Range and Speed with External Antennas](https://simeononsecurity.com/other/helium-mobile-hotspot-external-antennas-guide/)
 - Mar 13 - [Solve Wi-Fi Woes: Practical Fixes for Common Issues](https://simeononsecurity.com/articles/wireless-connectivity_-troubleshooting-common-wi-fi-problems/)
