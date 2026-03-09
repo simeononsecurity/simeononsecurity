@@ -56,15 +56,15 @@
 <h3 align="left">About Me</h4>
 <img width="30%" align="right" alt="SimeonOnSecurity Avatar" src="https://simeononsecurity.com/img/transparentavatar.png" />
 
-- 🔭 I’m currently working on writing articles for my website and developing new and exciting tools.
+- 🔭 I’m currently working on writing improving my skills in a world of AI.
 
-- 🌱 I’m currently learning about and researching **Hotspot / Passpoint 2.0 Technologies, Cellular Carrier Offload Technologies, FreeRadius Configurations, RADIUS/RADSEC, and WBA OpenRoaming-Settled**.
+- 🌱 I’m currently learning about and researching **Too many things to list**.
  
 - 👯 I’m looking to collaborate on [Standalone-Windows-Server-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script)
 
-- 🤝 I’m looking for help with **IIS, SQL, and VMWare STIG Automation**
+- 🤝 I’m looking for help with **None, N/A**
 
-- 💬 Ask me about **PowerShell, STIGs, SRGs and Compliance**
+- 💬 Ask me about **Devops and Automation**
 
 - 💬 Collaborate with me and other Cyber Security and IT Professionals on the [Cyber Sentinels Discord](https://discord.gg/CYVe2CyrXk)
 
