@@ -142,11 +142,11 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Mar 10 - [Advanced RayHunter Techniques and Troubleshooting 2026: Expert Configuration, Analysis, and Optimization Guide](https://simeononsecurity.com/articles/advanced-rayhunter-techniques-troubleshooting-2026/)
-- Mar 10 - [RayHunter Device Comparison 2026: Complete Performance Review and Testing Results for IMSI Catcher Detection](https://simeononsecurity.com/articles/rayhunter-device-comparison-2026-complete-review/)
-- Mar 10 - [RayHunter Security Analysis and Best Practices 2026: Comprehensive Risk Assessment, Compliance, and Professional Deployment Guide](https://simeononsecurity.com/articles/rayhunter-security-analysis-best-practices-2026/)
-- Mar 09 - [How to Flash Rayhunter Devices: Complete Installation and Configuration Guide for IMSI Catcher Detection](https://simeononsecurity.com/articles/how-to-flash-rayhunter-devices-complete-guide/)
-- Mar 22 - [Configuring Hotspot 2.0 on Alta Labs Access Points Easily](https://simeononsecurity.com/guides/configuring-hotspot-20-alta-labs-access-points/)
+- May 24 - [Ansible vs Puppet vs Chef 2026: Complete Configuration Management Comparison - Features, Performance & Best Use Cases](https://simeononsecurity.com/articles/ansible-vs-puppet-vs-chef-configuration-management/)
+- May 24 - [Cybersecurity Certifications Comparison 2026: Complete Vendor Guide](https://simeononsecurity.com/articles/cybersecurity-certifications-comparison-guide-2026/)
+- May 24 - [Flock Safety Camera Security Vulnerabilities: Critical Analysis of 50+ Discovered Flaws in 2026](https://simeononsecurity.com/articles/flock-safety-camera-security-vulnerabilities-research-2026/)
+- May 24 - [Flock Safety Camera Surveillance: Prevalence, Privacy Concerns, and Protection Strategies in 2026](https://simeononsecurity.com/articles/flock-safety-camera-surveillance-prevalence-privacy-protection-2026/)
+- May 24 - [Flock-You Detection Project: Complete Counter-Surveillance Hardware and Setup Guide 2026](https://simeononsecurity.com/articles/flock-you-detection-project-counter-surveillance-hardware-guide-2026/)
 <!-- feed end -->
 
 <hr>
