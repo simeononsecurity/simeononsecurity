@@ -142,11 +142,11 @@
 
 ### Latest Posts
 <!-- feed start -->
+- Jun 07 - [Eye Spy: Passive Surveillance Detector for the M5Stack Atom Lite (ESP32)](https://simeononsecurity.com/articles/eye-spy-passive-surveillance-detector-esp32-2026/)
 - Jun 06 - [ESP32 WiFi Canary: Passive 2.4 GHz Threat Detection with RGB LED Alerts](https://simeononsecurity.com/articles/esp32-wifi-canary-passive-wifi-threat-detection-2026/)
 - May 28 - [DagShell Custom Firmware for Orbic RCL400: Complete Installation and Usage Guide 2026](https://simeononsecurity.com/articles/dagshell-orbic-rcl400-custom-firmware-guide-2026/)
 - May 24 - [Ansible vs Puppet vs Chef 2026: Complete Configuration Management Comparison - Features, Performance & Best Use Cases](https://simeononsecurity.com/articles/ansible-vs-puppet-vs-chef-configuration-management/)
 - May 24 - [Cybersecurity Certifications Comparison 2026: Complete Vendor Guide](https://simeononsecurity.com/articles/cybersecurity-certifications-comparison-guide-2026/)
-- May 24 - [Flock Safety Camera Security Vulnerabilities: Critical Analysis of 50+ Discovered Flaws in 2026](https://simeononsecurity.com/articles/flock-safety-camera-security-vulnerabilities-research-2026/)
 <!-- feed end -->
 
 <hr>
