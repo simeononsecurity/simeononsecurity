@@ -142,11 +142,11 @@
 
 ### Latest Posts
 <!-- feed start -->
-- Jun 07 - [Eye Spy: Passive Surveillance Detector for the M5Stack Atom Lite (ESP32)](https://simeononsecurity.com/articles/eye-spy-passive-surveillance-detector-esp32-2026/)
-- Jun 06 - [ESP32 WiFi Canary: Passive 2.4 GHz Threat Detection with RGB LED Alerts](https://simeononsecurity.com/articles/esp32-wifi-canary-passive-wifi-threat-detection-2026/)
-- May 28 - [DagShell Custom Firmware for Orbic RCL400: Complete Installation and Usage Guide 2026](https://simeononsecurity.com/articles/dagshell-orbic-rcl400-custom-firmware-guide-2026/)
-- May 24 - [Ansible vs Puppet vs Chef 2026: Complete Configuration Management Comparison - Features, Performance & Best Use Cases](https://simeononsecurity.com/articles/ansible-vs-puppet-vs-chef-configuration-management/)
-- May 24 - [Cybersecurity Certifications Comparison 2026: Complete Vendor Guide](https://simeononsecurity.com/articles/cybersecurity-certifications-comparison-guide-2026/)
+- Jun 26 - [AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem](https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/)
+- Jun 26 - [MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?](https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/)
+- Jun 26 - [OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve](https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/)
+- Jun 26 - [The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually](https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/)
+- Jun 25 - [How to Humanize AI Writing: The Best Free Prompt to Fix AI Text](https://simeononsecurity.com/articles/how-to-humanize-ai-writing-prompt-guide/)
 <!-- feed end -->
 
 <hr>
