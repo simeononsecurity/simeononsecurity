@@ -1,0 +1,49 @@
+name: Update README Blog Grid
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/update-readme.js'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update "Latest from the Blog" grid
+        env:
+          FEED_URL: https://simeononsecurity.com/index.xml
+          POST_COUNT: '8'
+          COLUMNS: '4'
+        run: node scripts/update-readme.js
+
+      - name: Commit and push if README changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): refresh latest blog posts grid"
+            git push
+          else
+            echo "No changes to README.md — nothing to commit."
+          fi

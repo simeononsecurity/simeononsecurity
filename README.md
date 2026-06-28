@@ -140,6 +140,18 @@
 
 <hr>
 
+<h3 align="center">🚀 Popular Projects</h3>
+<div id="popular-projects" align="center">
+  <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Harden-Debloat?style=for-the-badge&logo=github&label=Windows-Optimize-Harden-Debloat&color=2EA043" alt="Windows-Optimize-Harden-Debloat stars"></a>
+  <a href="https://github.com/simeononsecurity/Windows-Optimize-Debloat"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Debloat?style=for-the-badge&logo=github&label=Windows-Optimize-Debloat&color=2EA043" alt="Windows-Optimize-Debloat stars"></a>
+  <a href="https://github.com/simeononsecurity/Standalone-Windows-STIG-Script"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-STIG-Script?style=for-the-badge&logo=github&label=Standalone-Windows-STIG-Script&color=2EA043" alt="Standalone-Windows-STIG-Script stars"></a>
+  <a href="https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-Server-STIG-Script?style=for-the-badge&logo=github&label=Standalone-Windows-Server-STIG-Script&color=2EA043" alt="Standalone-Windows-Server-STIG-Script stars"></a>
+  <a href="https://github.com/simeononsecurity/FireFox-Privacy-Script"><img src="https://img.shields.io/github/stars/simeononsecurity/FireFox-Privacy-Script?style=for-the-badge&logo=github&label=FireFox-Privacy-Script&color=2EA043" alt="FireFox-Privacy-Script stars"></a>
+  <a href="https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep"><img src="https://img.shields.io/github/stars/simeononsecurity/STIG-Compliant-Domain-Prep?style=for-the-badge&logo=github&label=STIG-Compliant-Domain-Prep&color=2EA043" alt="STIG-Compliant-Domain-Prep stars"></a>
+</div>
+
+<hr>
+
 ### Latest Posts
 <!-- feed start -->
 - Jun 26 - [AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem](https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/)
@@ -148,6 +160,24 @@
 - Jun 26 - [The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually](https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/)
 - Jun 25 - [How to Humanize AI Writing: The Best Free Prompt to Fix AI Text](https://simeononsecurity.com/articles/how-to-humanize-ai-writing-prompt-guide/)
 <!-- feed end -->
+
+### Latest from the Blog
+<!-- BLOG-POST-LIST:START -->
+<table>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/"><img src="https://simeononsecurity.com/img/cover/ai-cybersecurity-governance-certifications-disappointing.webp" alt="AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem" width="100%"></a><br><a href="https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/"><b>AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/"><img src="https://simeononsecurity.com/img/cover/meshcore-vs-meshtastic-comparison-guide.webp" alt="MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?" width="100%"></a><br><a href="https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/"><b>MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/"><img src="https://simeononsecurity.com/img/cover/ot-ics-plc-cybersecurity-fundamentally-broken.webp" alt="OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve" width="100%"></a><br><a href="https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/"><b>OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/"><img src="https://simeononsecurity.com/img/cover/state-of-ai-cybersecurity-2026.webp" alt="The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually" width="100%"></a><br><a href="https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/"><b>The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually</b></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/how-to-humanize-ai-writing-prompt-guide/"><img src="https://simeononsecurity.com/img/cover/how-to-humanize-ai-writing-prompt-guide.webp" alt="How to Humanize AI Writing: The Best Free Prompt to Fix AI Text" width="100%"></a><br><a href="https://simeononsecurity.com/articles/how-to-humanize-ai-writing-prompt-guide/"><b>How to Humanize AI Writing: The Best Free Prompt to Fix AI Text</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/eye-spy-passive-surveillance-detector-esp32-2026/"><img src="https://simeononsecurity.com/img/cover/eye-spy-passive-surveillance-detector-esp32-2026.webp" alt="Eye Spy: Passive Surveillance Detector for the M5Stack Atom Lite (ESP32)" width="100%"></a><br><a href="https://simeononsecurity.com/articles/eye-spy-passive-surveillance-detector-esp32-2026/"><b>Eye Spy: Passive Surveillance Detector for the M5Stack Atom Lite (ESP32)</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/esp32-wifi-canary-passive-wifi-threat-detection-2026/"><img src="https://simeononsecurity.com/img/cover/esp32-wifi-canary-passive-wifi-threat-detection-2026.webp" alt="ESP32 WiFi Canary: Passive 2.4 GHz Threat Detection with RGB LED Alerts" width="100%"></a><br><a href="https://simeononsecurity.com/articles/esp32-wifi-canary-passive-wifi-threat-detection-2026/"><b>ESP32 WiFi Canary: Passive 2.4 GHz Threat Detection with RGB LED Alerts</b></a></td>
+<td align="center" valign="top" width="25%"><a href="https://simeononsecurity.com/articles/dagshell-orbic-rcl400-custom-firmware-guide-2026/"><img src="https://simeononsecurity.com/img/cover/dagshell-orbic-rcl400-custom-firmware-guide-2026.webp" alt="DagShell Custom Firmware for Orbic RCL400: Complete Installation and Usage Guide 2026" width="100%"></a><br><a href="https://simeononsecurity.com/articles/dagshell-orbic-rcl400-custom-firmware-guide-2026/"><b>DagShell Custom Firmware for Orbic RCL400: Complete Installation and Usage Guide 2026</b></a></td>
+</tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
 
 <hr>
 
@@ -172,6 +202,43 @@
 </p>-->
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
+<hr>
+
+<h3 align="center">🎓 Certifications</h3>
+<div id="certifications" align="center">
+  <!-- CompTIA -->
+  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Cybersecurity%20Analyst%20(CySA%2B)-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cybersecurity Analyst (CySA+)">
+  <img src="https://img.shields.io/badge/-CompTIA%20PenTest%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+">
+  <img src="https://img.shields.io/badge/-CompTIA%20SecurityX%20(CASP%2B)-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecurityX (CASP+)">
+  <img src="https://img.shields.io/badge/-CompTIA%20SecAI%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecAI+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Linux%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Linux+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Server%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Server+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Project%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Project+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Cloud%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cloud+">
+  <img src="https://img.shields.io/badge/-CompTIA%20Cloud%20Essentials%2B-C8102E?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Cloud Essentials+">
+  <!-- ISC2 -->
+  <img src="https://img.shields.io/badge/-Certified%20Information%20Systems%20Security%20Professional%20(CISSP)-008165?style=for-the-badge&logo=isc2&logoColor=white" alt="Certified Information Systems Security Professional (CISSP)">
+  <img src="https://img.shields.io/badge/-Systems%20Security%20Certified%20Practitioner%20(SSCP)-008165?style=for-the-badge&logo=isc2&logoColor=white" alt="Systems Security Certified Practitioner (SSCP)">
+  <!-- EC-Council (not on simple-icons: logo-less) -->
+  <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker%20(CEH)-A6192E?style=for-the-badge" alt="Certified Ethical Hacker (CEH)">
+  <img src="https://img.shields.io/badge/-EC--Council%20Certified%20Incident%20Handler%20(ECIH)-A6192E?style=for-the-badge" alt="EC-Council Certified Incident Handler (ECIH)">
+  <img src="https://img.shields.io/badge/-EC--Council%20Certified%20Encryption%20Specialist%20(ECES)-A6192E?style=for-the-badge" alt="EC-Council Certified Encryption Specialist (ECES)">
+  <!-- Microsoft (not on simple-icons: logo-less) -->
+  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Professional%20(MCP)-0078D4?style=for-the-badge" alt="Microsoft Certified Professional (MCP)">
+  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Solutions%20Associate%3A%20Windows%2010%20(MCSA)-0078D4?style=for-the-badge" alt="Microsoft Certified Solutions Associate: Windows 10 (MCSA)">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge" alt="Microsoft Azure Fundamentals (AZ-900)">
+  <img src="https://img.shields.io/badge/-Microsoft%20Technology%20Associate%3A%20Windows%20Server%20Administration%20Fundamentals%20(MTA)-0078D4?style=for-the-badge" alt="Microsoft Technology Associate: Windows Server Administration Fundamentals (MTA)">
+  <!-- Cisco -->
+  <img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)">
+  <img src="https://img.shields.io/badge/-Cisco%20Certified%20Entry%20Networking%20Technician%20(CCENT)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Entry Networking Technician (CCENT)">
+  <!-- Google -->
+  <img src="https://img.shields.io/badge/-Google%20AI%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Professional">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate">
+</div>
+
 <hr>
 <!-- SPONSORS-LIST:START -->
 <!-- SPONSORS-LIST:END -->
