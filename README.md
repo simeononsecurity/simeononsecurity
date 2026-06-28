@@ -4,38 +4,38 @@
 <div id="badges" align="center">
   <!-- Like Buttons -->
   <a rel=me  href="https://twitter.com/SimeonSecurity">
-    <img src="https://img.shields.io/twitter/follow/SimeonSecurity?style=for-the-badge" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/SimeonSecurity?style=social" alt="Twitter">
   </a>
   <a rel=me href="https://github.com/simeononsecurity">
-    <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue&style=for-the-badge" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-<COLOR>?logo=github&logoColor=white&color=blue" alt="GitHub">
   </a>
   <a rel=me href="https://infosec.exchange/@simeononsecurity">
-    <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue&style=for-the-badge" alt="Mastodon">
+    <img src="https://img.shields.io/badge/Mastodon-Follow-<COLOR>?logo=mastodon&logoColor=white&color=blue" alt="Mastodon">
   </a>
   <a rel=me href="https://medium.com/@simeononsecurity">
-    <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black&style=for-the-badge" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-Follow-<COLOR>?logo=medium&logoColor=white&color=black" alt="Medium">
   </a>
   <br>
   <!-- Discord -->
   <a href="https://discord.gg/CYVe2CyrXk">
-    <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/discord/1077773186772521011?label=Cyber%20Sentinels%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a rel=me href="https://discord.gg/dwurqrfsAZ">
-    <img src="https://img.shields.io/discord/762530227511099432?label=SimeonOnSecurity.com%20Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+    <img src="https://img.shields.io/discord/762530227511099432?label=SimeonOnSecurity.com%20Discord&logo=discord&logoColor=white" alt="Discord">
   </a>
   <br>
   
   <div>
     <!-- Website -->
     <a rel=me href="https://simeononsecurity.com">
-      <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green&style=for-the-badge" alt="Website">
+      <img src="https://img.shields.io/badge/Website-Visit-<COLOR>?color=green" alt="Website">
     </a>
     <!-- RSS Feed -->
     <a rel=me href="https://simeononsecurity.com/index.xml">
-      <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange?style=for-the-badge" alt="RSS feed">
+      <img src="https://img.shields.io/badge/RSS%20feed-Subscribe-orange" alt="RSS feed">
     </a>
     <a href="https://github.com/sponsors/simeononsecurity" target="_blank">
-      <img src="https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4?style=for-the-badge" alt="Sponsor">
+      <img src="https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4" alt="Sponsor">
     </a>
     <br>
   </div>
@@ -45,7 +45,7 @@
       <img src="https://komarev.com/ghpvc/?username=simeononsecurity" alt="simeononsecurity github profile view count" />
     </a>
     <a href="https://github.com/sponsors/SimeonOnSecurity" target="_blank">
-      <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Count&style=for-the-badge" alt="GitHub Sponsors">
+      <img src="https://img.shields.io/github/sponsors/SimeonOnSecurity?label=Sponsor%20Count&style=social" alt="GitHub Sponsors">
     </a>
   </div>
   <br>
@@ -78,70 +78,70 @@
   <table>
     <tr>
       <td>Over 2k Stars on <a href="https://github.com/simeononsecurity" rel="me">GitHub</a></td>
-      <td><a href="https://github.com/simeononsecurity" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity?style=for-the-badge" alt="GitHub Stars"></a></td>
+      <td><a href="https://github.com/simeononsecurity" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity" alt="GitHub Stars"></a></td>
     </tr>
     <tr>
       <td>Dozens of containers maintained on <a href="https://hub.docker.com/u/simeononsecurity" rel="me">Docker Hub</a></td>
-      <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge" alt="Docker Hub containers"></a></td>
+      <td><a href="https://hub.docker.com/u/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Docker-Containers-blue" alt="Docker Hub containers"></a></td>
     </tr>
     <tr>
       <td>Extensions Created for <a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me">Chrome</a> and <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me">Firefox Add-ons</a></td>
-      <td><a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me"><img src="https://img.shields.io/badge/Chrome-Extensions-white?style=for-the-badge" alt="Chrome Extensions"></a> <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange?style=for-the-badge" alt="Firefox add-ons"></a></td>
+      <td><a href="https://chromewebstore.google.com/detail/search-simeononsecurity/ggglhpkijcikcjmhlbakphhcgjgbdmel" rel="me"><img src="https://img.shields.io/badge/Chrome-Extensions-white" alt="Chrome Extensions"></a> <a href="https://addons.mozilla.org/en-US/firefox/user/18064722" rel="me"><img src="https://img.shields.io/badge/FireFox-Extensions-orange" alt="Firefox add-ons"></a></td>
     </tr>
     <tr>
       <td>Packages developed for <a href="https://www.npmjs.com/~simeononsecurity" rel="me">NPM</a></td>
-      <td><a href="https://www.npmjs.com/~simeononsecurity" rel="me"><img src="https://img.shields.io/badge/NPM-Packages-brightgreen?style=for-the-badge" alt="NPM packages"></a></td>
+      <td><a href="https://www.npmjs.com/~simeononsecurity" rel="me"><img src="https://img.shields.io/badge/NPM-Packages-brightgreen" alt="NPM packages"></a></td>
     </tr>
     <tr>
       <td>Packages for <a href="https://pypi.org/user/SimeonOnSecurity" rel="me">Python</a></td>
-      <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-yellow?style=for-the-badge" alt="Python packages"></a></td>
+      <td><a href="https://pypi.org/user/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PyPI-Packages-yellow" alt="Python packages"></a></td>
     </tr>
     <tr>
       <td>PowerShell Modules on <a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me">PowerShell Gallery</a></td>
-      <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-blue?style=for-the-badge" alt="PowerShell Gallery profile"></a></td>
+      <td><a href="https://www.powershellgallery.com/profiles/SimeonOnSecurity" rel="me"><img src="https://img.shields.io/badge/PowerShell%20Gallery-Profile-blue" alt="PowerShell Gallery profile"></a></td>
     </tr>
     <tr>
       <td>Packages published on <a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me">Chocolatey</a></td>
-      <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-blue?style=for-the-badge" alt="Chocolatey Community profile"></a></td>
+      <td><a href="https://community.chocolatey.org/profiles/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Chocolatey%20Community-Profile-blue" alt="Chocolatey Community profile"></a></td>
     </tr>
     <tr>
       <td>Playbook Collections on <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me">Ansible Galaxy</a></td>
       <td>
-        <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-red?style=for-the-badge" alt="Ansible Galaxy Collections"></a>
-        <a href="https://galaxy.ansible.com/ui/standalone/namespaces/7855/" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Roles-red?style=for-the-badge" alt="Ansible Galaxy Roles"></a>
+        <a href="https://galaxy.ansible.com/ui/namespaces/simeononsecurity" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Collections-red" alt="Ansible Galaxy Collections"></a>
+        <a href="https://galaxy.ansible.com/ui/standalone/namespaces/7855/" rel="me"><img src="https://img.shields.io/badge/Ansible%20Galaxy-Roles-red" alt="Ansible Galaxy Roles"></a>
       </td>
     </tr>
     <tr>
       <td>3 Discord Bots Created</td>
       <td>
-        <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github&style=for-the-badge" alt="GitHub stars"></a>
-        <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github&style=for-the-badge" alt="GitHub stars"></a>
-        <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github&style=for-the-badge" alt="GitHub stars"></a></td>
+        <a href="https://github.com/CyberSentinels/discord-cyber-scenario-bot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-cyber-scenario-bot?label=discord-cyber-scenario-bot&logo=github" alt="GitHub stars"></a>
+        <a href="https://github.com/CyberSentinels/discord-typecast-gpt-chatbot" rel="me"><img src="https://img.shields.io/github/stars/CyberSentinels/discord-typecast-gpt-chatbot?label=discord-typecast-gpt-chatbot&logo=github" alt="GitHub stars"></a>
+        <a href="https://github.com/simeononsecurity/discord-backdoors-and-breaches" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/discord-backdoors-and-breaches?label=discord-backdoors-and-breaches&logo=github" alt="GitHub stars"></a></td>
     </tr>
     <tr>
       <td>Most Popular Projects (⭐ live star counts)</td>
       <td>
-        <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Harden-Debloat?label=Windows-Optimize-Harden-Debloat&logo=github&color=2EA043&style=for-the-badge" alt="Windows-Optimize-Harden-Debloat stars"></a>
-        <a href="https://github.com/simeononsecurity/Windows-Optimize-Debloat" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Debloat?label=Windows-Optimize-Debloat&logo=github&color=2EA043&style=for-the-badge" alt="Windows-Optimize-Debloat stars"></a>
-        <a href="https://github.com/simeononsecurity/Standalone-Windows-STIG-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-STIG-Script?label=Standalone-Windows-STIG-Script&logo=github&color=2EA043&style=for-the-badge" alt="Standalone-Windows-STIG-Script stars"></a>
-        <a href="https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-Server-STIG-Script?label=Standalone-Windows-Server-STIG-Script&logo=github&color=2EA043&style=for-the-badge" alt="Standalone-Windows-Server-STIG-Script stars"></a>
-        <a href="https://github.com/simeononsecurity/FireFox-Privacy-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/FireFox-Privacy-Script?label=FireFox-Privacy-Script&logo=github&color=2EA043&style=for-the-badge" alt="FireFox-Privacy-Script stars"></a>
-        <a href="https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/STIG-Compliant-Domain-Prep?label=STIG-Compliant-Domain-Prep&logo=github&color=2EA043&style=for-the-badge" alt="STIG-Compliant-Domain-Prep stars"></a></td>
+        <a href="https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Harden-Debloat?label=Windows-Optimize-Harden-Debloat&logo=github&color=2EA043" alt="Windows-Optimize-Harden-Debloat stars"></a>
+        <a href="https://github.com/simeononsecurity/Windows-Optimize-Debloat" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Windows-Optimize-Debloat?label=Windows-Optimize-Debloat&logo=github&color=2EA043" alt="Windows-Optimize-Debloat stars"></a>
+        <a href="https://github.com/simeononsecurity/Standalone-Windows-STIG-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-STIG-Script?label=Standalone-Windows-STIG-Script&logo=github&color=2EA043" alt="Standalone-Windows-STIG-Script stars"></a>
+        <a href="https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/Standalone-Windows-Server-STIG-Script?label=Standalone-Windows-Server-STIG-Script&logo=github&color=2EA043" alt="Standalone-Windows-Server-STIG-Script stars"></a>
+        <a href="https://github.com/simeononsecurity/FireFox-Privacy-Script" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/FireFox-Privacy-Script?label=FireFox-Privacy-Script&logo=github&color=2EA043" alt="FireFox-Privacy-Script stars"></a>
+        <a href="https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep" rel="me"><img src="https://img.shields.io/github/stars/simeononsecurity/STIG-Compliant-Domain-Prep?label=STIG-Compliant-Domain-Prep&logo=github&color=2EA043" alt="STIG-Compliant-Domain-Prep stars"></a></td>
     </tr>
     <tr>
       <td>Contributions to Major Repos and Organizations</td>
       <td>
         <a href="https://github.com/ansible/ansible-documentation/commits?author=simeononsecurity">
-          <img src="https://img.shields.io/badge/Ansible-Contributions-red?logo=github&style=for-the-badge" alt="Ansible Contributions">
+          <img src="https://img.shields.io/badge/Ansible-Contributions-red?logo=github" alt="Ansible Contributions">
         </a>
         <a href="https://github.com/FreeRADIUS/freeradius-server/commits/v3.2.x/?author=simeononsecurity">
-          <img src="https://img.shields.io/badge/FreeRadius%20Contributions-grey?logo=github&style=for-the-badge" alt="FreeRadius Contributions">
+          <img src="https://img.shields.io/badge/FreeRadius%20Contributions-grey?logo=github" alt="FreeRadius Contributions">
         </a>
         <a href="https://github.com/MicrosoftDocs/windowsserverdocs/pull/7410">
-          <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github&style=for-the-badge" alt="Windows Server Contributions">
+          <img src="https://img.shields.io/badge/Windows%20Server-Contributions-blue?logo=github" alt="Windows Server Contributions">
         </a>
         <a href="https://github.com/HYFIX/rtk_rover/commits/main/?author=simeononsecurity">
-          <img src="https://img.shields.io/badge/HYFIX%20Contributions-grey?logo=github&style=for-the-badge" alt="Hyfix and Geodnet Contributions">
+          <img src="https://img.shields.io/badge/HYFIX%20Contributions-grey?logo=github" alt="Hyfix and Geodnet Contributions">
         </a>
       </td>
     </tr>
