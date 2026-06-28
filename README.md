@@ -232,11 +232,3 @@
 <hr>
 <!-- SPONSORS-LIST:START -->
 <!-- SPONSORS-LIST:END -->
-
-<!-- feed start -->
-- Jun 26 - [AI Cybersecurity and Governance Certifications Are Not Keeping Up with the Problem](https://simeononsecurity.com/articles/ai-cybersecurity-governance-certifications-disappointing/)
-- Jun 26 - [MeshCore vs Meshtastic: Which Off-Grid LoRa Mesh Network Is Right for You?](https://simeononsecurity.com/articles/meshcore-vs-meshtastic-comparison-guide/)
-- Jun 26 - [OT, ICS, and PLC Cybersecurity Is a Problem Industry Cannot Honestly Solve](https://simeononsecurity.com/articles/ot-ics-plc-cybersecurity-fundamentally-broken/)
-- Jun 26 - [The State of AI Cybersecurity in 2026: Deploy Fast, Secure Later, Pay Eventually](https://simeononsecurity.com/articles/state-of-ai-cybersecurity-2026/)
-- Jun 25 - [How to Humanize AI Writing: The Best Free Prompt to Fix AI Text](https://simeononsecurity.com/articles/how-to-humanize-ai-writing-prompt-guide/)
-<!-- feed end -->
