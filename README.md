@@ -192,43 +192,5 @@
 <a rel="me" href="https://mastodon.world/@simeononsecurity"></a>
 <a rel="me" href="https://simeononsecurity.com"></a>
 <hr>
-
-<h3 align="center">🎓 Certifications</h3>
-<p align="center"><sub><i>On paper I'm apparently qualified to run an entire IT department single-handedly — in practice I just have a deeply unhealthy relationship with proctored exams and a serious alphabet-soup addiction. Yes, this is too many. No, I will not be stopping. Please send vouchers. 🫠</i></sub></p>
-<div id="certifications" align="left">
-  <!-- CompTIA -->
-  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA A+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Network+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Cybersecurity%20Analyst%20(CySA%2B)-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Cybersecurity Analyst (CySA+)">
-  <img src="https://img.shields.io/badge/-CompTIA%20PenTest%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA PenTest+">
-  <img src="https://img.shields.io/badge/-CompTIA%20SecurityX%20(CASP%2B)-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA SecurityX (CASP+)">
-  <img src="https://img.shields.io/badge/-CompTIA%20SecAI%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA SecAI+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Linux%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Linux+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Server%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Server+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Project%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Project+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Cloud%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Cloud+">
-  <img src="https://img.shields.io/badge/-CompTIA%20Cloud%20Essentials%2B-C8102E?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Cloud Essentials+">
-  <!-- ISC2 -->
-  <img src="https://img.shields.io/badge/-Certified%20Information%20Systems%20Security%20Professional%20(CISSP)-008165?style=flat-square&logo=isc2&logoColor=white" alt="Certified Information Systems Security Professional (CISSP)">
-  <img src="https://img.shields.io/badge/-Systems%20Security%20Certified%20Practitioner%20(SSCP)-008165?style=flat-square&logo=isc2&logoColor=white" alt="Systems Security Certified Practitioner (SSCP)">
-  <!-- EC-Council (not on simple-icons: generic security-shield emblem supplied as an inline SVG data-URI) -->
-  <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker%20(CEH)-A6192E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDEgMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0tMS4wNiAxNC41NEw3LjQgMTJsMS40MS0xLjQxIDIuMTIgMi4xMiA0LjI0LTQuMjQgMS40MSAxLjQxLTUuNjUgNS42NnoiLz48L3N2Zz4K" alt="Certified Ethical Hacker (CEH)">
-  <img src="https://img.shields.io/badge/-EC--Council%20Certified%20Incident%20Handler%20(ECIH)-A6192E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDEgMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0tMS4wNiAxNC41NEw3LjQgMTJsMS40MS0xLjQxIDIuMTIgMi4xMiA0LjI0LTQuMjQgMS40MSAxLjQxLTUuNjUgNS42NnoiLz48L3N2Zz4K" alt="EC-Council Certified Incident Handler (ECIH)">
-  <img src="https://img.shields.io/badge/-EC--Council%20Certified%20Encryption%20Specialist%20(ECES)-A6192E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDEgMyA1djZjMCA1LjU1IDMuODQgMTAuNzQgOSAxMiA1LjE2LTEuMjYgOS02LjQ1IDktMTJWNWwtOS00em0tMS4wNiAxNC41NEw3LjQgMTJsMS40MS0xLjQxIDIuMTIgMi4xMiA0LjI0LTQuMjQgMS40MSAxLjQxLTUuNjUgNS42NnoiLz48L3N2Zz4K" alt="EC-Council Certified Encryption Specialist (ECES)">
-  <!-- Microsoft (not on simple-icons: brand logo supplied as an inline SVG data-URI) -->
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Professional%20(MCP)-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI0YzNTMyNSIgZD0iTTAgMGgxMXYxMUgweiIvPjxwYXRoIGZpbGw9IiM4MUJDMDYiIGQ9Ik0xMiAwaDExdjExSDEyeiIvPjxwYXRoIGZpbGw9IiMwNUE2RjAiIGQ9Ik0wIDEyaDExdjExSDB6Ii8%2BPHBhdGggZmlsbD0iI0ZGQkEwOCIgZD0iTTEyIDEyaDExdjExSDEyeiIvPjwvc3ZnPgo%3D" alt="Microsoft Certified Professional (MCP)">
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified%20Solutions%20Associate%3A%20Windows%2010%20(MCSA)-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI0YzNTMyNSIgZD0iTTAgMGgxMXYxMUgweiIvPjxwYXRoIGZpbGw9IiM4MUJDMDYiIGQ9Ik0xMiAwaDExdjExSDEyeiIvPjxwYXRoIGZpbGw9IiMwNUE2RjAiIGQ9Ik0wIDEyaDExdjExSDB6Ii8%2BPHBhdGggZmlsbD0iI0ZGQkEwOCIgZD0iTTEyIDEyaDExdjExSDEyeiIvPjwvc3ZnPgo%3D" alt="Microsoft Certified Solutions Associate: Windows 10 (MCSA)">
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI0YzNTMyNSIgZD0iTTAgMGgxMXYxMUgweiIvPjxwYXRoIGZpbGw9IiM4MUJDMDYiIGQ9Ik0xMiAwaDExdjExSDEyeiIvPjxwYXRoIGZpbGw9IiMwNUE2RjAiIGQ9Ik0wIDEyaDExdjExSDB6Ii8%2BPHBhdGggZmlsbD0iI0ZGQkEwOCIgZD0iTTEyIDEyaDExdjExSDEyeiIvPjwvc3ZnPgo%3D" alt="Microsoft Azure Fundamentals (AZ-900)">
-  <img src="https://img.shields.io/badge/-Microsoft%20Technology%20Associate%3A%20Windows%20Server%20Administration%20Fundamentals%20(MTA)-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI0YzNTMyNSIgZD0iTTAgMGgxMXYxMUgweiIvPjxwYXRoIGZpbGw9IiM4MUJDMDYiIGQ9Ik0xMiAwaDExdjExSDEyeiIvPjxwYXRoIGZpbGw9IiMwNUE2RjAiIGQ9Ik0wIDEyaDExdjExSDB6Ii8%2BPHBhdGggZmlsbD0iI0ZGQkEwOCIgZD0iTTEyIDEyaDExdjExSDEyeiIvPjwvc3ZnPgo%3D" alt="Microsoft Technology Associate: Windows Server Administration Fundamentals (MTA)">
-  <!-- Cisco -->
-  <img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate (CCNA)">
-  <img src="https://img.shields.io/badge/-Cisco%20Certified%20Entry%20Networking%20Technician%20(CCENT)-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Entry Networking Technician (CCENT)">
-  <!-- Google -->
-  <img src="https://img.shields.io/badge/-Google%20AI%20Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Professional">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional">
-</div>
-
-<hr>
 <!-- SPONSORS-LIST:START -->
 <!-- SPONSORS-LIST:END -->
